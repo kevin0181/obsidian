@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8247bbb4f46624bf",
+        "id": "fed7d9c27aec419a",
         "type": "tabs",
         "children": [
           {
-            "id": "bfe275d91c7c34ca",
+            "id": "db0957d429a6a9ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-1/네트워크 기초/기말고사 발표 한거사람들/iptv 우리꺼 주제3.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "iptv 우리꺼 주제3"
-            }
-          },
-          {
-            "id": "615d14718408b1bd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,10 +160,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "615d14718408b1bd",
+  "active": "db0957d429a6a9ed",
   "lastOpenFiles": [
     "3-1/네트워크 기초/기말고사 발표 한거사람들/주제2 디지털.md",
     "3-1/네트워크 기초/기말고사 발표 한거사람들/iptv 우리꺼 주제3.md",
