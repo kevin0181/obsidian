@@ -1,0 +1,24 @@
+struct VS_INPUT		//정점 셰이더의 입력을 위한 구조체를 선언한다.
+{
+	float3 position : POSITION;
+	float4 color : COLOR;
+};
+
+struct VS_OUTPUT	//정점 셰이더의 출력(픽셀 셰이더의 입력)을 위한 구조체를 선언한다.
+{
+	float4 position : SV_POSITION;
+	float4 color : COLOR;
+};
+
+VS_OUTPUT VSMain(VS_INPUT input) //정점 셰이더를 정의한다.
+{
+	VS_OUTPUT output;
+	output.position = float4(input.position, 1.0f);   //정점의 위치 벡터는 투영좌표계로 표현되어 있으므로 변환하지 않고 그대로 출력한다. 
+	output.color = input.color;						  //입력되는 픽셀의 색상(래스터라이저 단계에서 보간하여 얻은 색상)을 그대로 출력한다. 
+	return(output);
+}
+
+float4 PSMain(VS_OUTPUT input) : SV_TARGET //픽셀 셰이더를 정의한다.
+{
+   return(input.color); //입력되는 픽셀의 색상을 그대로 출력-병합 단계(렌더 타겟)로 출력한다. 
+}
