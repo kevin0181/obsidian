@@ -1,0 +1,46 @@
+그래픽 파이프라인 상태 서술
+CreateGraphicsPiplineState 구조체를 이용하여 생성한다음 SetPipliineState로 상태를 설정한다. -> PSO, PSO로 설정되지 않는 것들은 명령리스트의 멤버함수를 이용하여 설정한다. omsetrendertarget 같은 것들.
+그 다음 상태 상속이 있는데 직접 명령 리스트와 번들 명령 리스트가 있다. 번들 명령 리스트는 직접 명령 리스트를 부모로 하여 상속 받는다. 직접 명령 리스트는 Non-PSO로 설정된 파이프라인 상태를 상속하지 않고, 번들 명령리스트는 PSO로 설정되지 않은 모든 파이프라인 상태를 상속한다.
+
+Direct3D 12 디바이스 서술
+하드웨어에 더 밀접하여 더 빠르고 효율적이다. 저수준 프로그래밍, CPU와 GPU 모두 대기시간 최소화 지원. 
+
+리소스 장벽 서술
+리소스에 대한 상태 관리를 위한 객체이다. 릿소스에 대한 여러접들을  동기화가 필요함을 드라이버에게 통지하는 것으로 리소스에 대한 사용 조건을 명시. 전이 장벽 - 서브리소스들의 사용 용도에 따라 상태가 바뀌어야함 표현, 겹침 장벽 - 같은 힙에서 겹쳐지는 리소스들을 사용할 때 전이 표현, 무순서 접근 뷰 장벽 - 하나의 리소스에 대한 모든 UAV 접근은 다음 접근 이전에 완료되어야함 표현. 
+
+CPU/GPU 동기화 서술
+CPU와 GPU가 병렬적으로 실행하기 위해 동기화가 필요하다. cpu는 리소스를 생성하고 gpu는 사용한다. 공유되는 리소스들에 대한 동기화 처리가 필요하다.
+펜스 객체는 CreateFence로 생성하고 GetCompleteValue로 펜스의 현재의 값 반환, Signal - 지정한 값으로 펜스 값 설정, SetEventOnCompletion - 이벤트 생성
+
+리소스 사용 과정 함수로 서술
+CreateCommittedResource로 리소스 생성, 리소스 뷰 타입에 따라 DescriptorHeap 생성, Set 함수를 이용하여 리소스 사용.
+서술자 힙 얘기할 때
+GetDescriptorHandleIncrementsize
+GetCPUDescriptorHandleForHeapStart
+GetGPUDescriptorHandleForHeapStart
+
+스칼라 삼중적 서술
+탱크를 예로 들면 포신이 향하는 벡터와 적을 향하는 벡터를 외적한 다음 탱크의 업벡터를 내적해서 양수가 나오면 오른쪽회전이 빠르고 음수가 나오면 왼쪽으로 회전하는 것이 빠릅니다. 3개의 벡터가 주어졌을 때 외적하고 내적한다.
+
+depth 알고리즘 서술
+Direct3D 파이프라인 중에서 출력 병합 단계에서 깊이-스텐실 검사가 진행되는데 이때 깊이 검사를 깊이 알고리즘을 이용해서 진행합니다. 깊이 버퍼의 값을 각 픽셀별로 모두 1.0f로 초기화를 한 후 픽셀 별로 출력 픽셀의 깊이 값을 깊이 버퍼의 같은 위치의 깊이 값과 비교해서 깊이 값이 더 작을 경우 그 값을 버퍼에 저장을 합니다. 
+
+충돌 구조체 서술
+BoundingBox, BoundingSphere, BoundingOrientedBox, BoundingFrustum -> intersect 함수를 이용하여 2개의 충돌 구조체를 비교하여 충돌검사를 한다.
+
+Plane 함수 서술
+PlaneDot - 평면과 4D 벡터의 내적
+PlaneDotCoord - 평면과 3D 벡터의 내적 -> 거리를  알 수 있다
+PlaneDotNormal - 평면의 법선 벡터와 3D 방향 벡터의 내적 -> 각도를 알 수 있다
+PlaneNormalized - 벡터를 단위벡터로 바꿔준다.
+
+뎁스 스텐실 디바이스 연결 서술
+뎁스 스텐실 버퍼 생성 - createcomittedResource
+뎁스 스텐실 뷰 생성 - createdepthstensilview
+상태 초기화 - cleardepthstensilview
+파이프 라인에 연결 - omsetrendertarget
+
+
+
+xmtransformvector3 - 파라미터로 벡터랑 행렬, 행렬을 벡터로 바꿔주는 함수
+10 - 바운딩 박스
