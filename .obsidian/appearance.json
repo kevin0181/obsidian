@@ -1,0 +1,15 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "custom-rainbow-colors",
+    "custom-background",
+    "minimal-cards",
+    "floating-search-bar",
+    "floating-status-bar",
+    "snippets"
+  ],
+  "showRibbon": true
+}
