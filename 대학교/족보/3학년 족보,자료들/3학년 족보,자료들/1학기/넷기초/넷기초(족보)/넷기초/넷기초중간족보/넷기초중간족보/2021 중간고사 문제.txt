@@ -1,0 +1,8 @@
+넷기초 중간고사 주관식
+
+Lan topology 설명, 종류 4개
+Hand off와 roaming의 차이
+ipv4 ipv6 차이점 3개
+Packet switched network가 circuit switched network에 비해 좋은 점 3개
+Tcp/ip 4계층 중 전송계층에 해당하는 프로토콜 2개, 기능 설명
+Linux unix dos netware 중 성격이 다른거 1개, 이유 설명

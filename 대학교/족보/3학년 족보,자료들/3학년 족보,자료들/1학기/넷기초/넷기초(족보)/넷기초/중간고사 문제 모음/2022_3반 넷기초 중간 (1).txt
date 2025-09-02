@@ -1,0 +1,6 @@
+1. multiplexing, ftth, ... 단어 맞추기
+2. wireless topology에 대한 개념을 서술하고, wireless architecture 2가지의 예시와 그에대한 특징을 서술하시오.
+3. wireless 에서 cell, hand-off의 개념을 설명하고 roaming과의 차이점을 서술하시오.
+4. 
+5. 
+6. unix, dos, ..., ... 중에서 다른 것과 선택한 이유를 설명하시오.
