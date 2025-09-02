@@ -1,0 +1,114 @@
+# .NET Core
+bin/
+obj/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer Logs
+*.cab
+
+# Windows Installer Executables
+*.exe
+*.dll
+*.pdb
+
+# Thumbnails
+Thumbs.db
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+
+# --- 기본적인 Git 설정 ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- 바이너리 및 빌드 파일 (불필요한 파일) ---
+*.exe
+*.dll
+*.pdb
+*.app
+*.dylib
+*.icns
+*.lib
+*.so
+*.a
+*.exp
+*.apk
+*.ipa
+
+# --- 언리얼 엔진 관련 폴더 ---
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/Build/
+/Plugins/*/Intermediate/
+/Plugins/*/Binaries/
+/Plugins/*/Saved/
+/Source/*/Intermediate/
+
+# --- 프로젝트별 자동 생성 파일 ---
+*.suo
+*.sdf
+*.VC.db
+*.vscode/
+.vscode/settings.json
+.vscode/launch.json
+
+# --- C++ 프로젝트 관련 파일 ---
+*.opensdf
+# *.sln
+# *.vcxproj*
+*.xcodeproj
+*.xcworkspace
+*.makefile
+CMakeLists.txt
+obj/
+bin/
+
+# --- 언리얼 에디터 관련 파일 ---
+*.log
+*.vs
+*.userprefs
+
+# --- Mac / Linux 관련 파일 ---
+*.DS_Store
+*.AppleDouble
+.nfs*
+
+# --- Pak / Cooked / 개발용 리소스 제외 ---
+/Config/DefaultEditorPerProjectUserSettings.ini
+/Content/Developers/
+/Content/Collections/
+/Saved/Cooked/
+/Saved/Logs/
+/Saved/Autosaves/
+/Saved/Backup/
+
+# --- 외부 SDK 또는 빌드 도구 폴더 ---
+/Extras/
+/Programs/
+
+
+/3-1/STL/2025 STL 과제/2022180024_STL_/2022180024_STL_/2025 STL 과제 파일 - 2022180024
+/3-1/STL/2025 STL 과제/2022180024_STL_/2022180024_STL_/같은아이디.txt
+
+# /3-1/GameEngine1/project/GameEngineProject/Plugins/MollyHouse/Content
+/3-1/GameEngine1/project/GameEngineProject/Content/LEC19-Righting/starmap_2020_16k.uasset
