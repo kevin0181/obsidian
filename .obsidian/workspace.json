@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f840982080e59af6",
+        "id": "6e3b9400adff8be8",
         "type": "tabs",
         "children": [
           {
-            "id": "a4232a600cde4f93",
+            "id": "b809948235672752",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,8 +164,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dadd3c25a1b9ada9",
+  "active": "b809948235672752",
   "lastOpenFiles": [
+    "대학교/2-2/2DG_PDF/2DG_PDF TRACKER.md",
+    "대학교/2-2/alg_pdf/02-intro.pdf",
+    "elice 기업은행/(엘리스) IBK디지털연수_디지털 온보딩 2회차 프로젝트 교안_1_템플릿 엔진 및 Bootstrap 세팅 실습.pdf",
     "대학교/졸작/최종(0.01).pdf",
     "대학교/졸작/~$발표ppt.pptx",
     "대학교/창업/사업계획서.docx",
@@ -180,9 +183,6 @@
     "3-1/STL/2025 STL 과제/2025 STL 과제 파일 - 2022180024",
     "3-1/STL/2025 STL 과제/2025 STL 과제 자료생성.exe",
     "3-1/STL/2025 STL 과제/2025 STL 과제.pdf",
-    "3-1/STL/2025 STL 과제",
-    "3-1/STL/2025 STL 과제.Zip",
-    "3-1/STL/STL_1/STL_9/main.cpp",
-    "3-1/STL/STL_1/STL_9/STL_9.vcxproj.filters"
+    "3-1/STL/2025 STL 과제"
   ]
 }
