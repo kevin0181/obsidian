@@ -1,0 +1,10 @@
+---
+tags:
+  - 2DG
+Img: pdf 9.png
+Year: 2024-10-22
+User: 유영빈
+Number: "9"
+line: "[[2DG_PDF TRACKER]]"
+---
+
