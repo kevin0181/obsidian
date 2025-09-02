@@ -1,0 +1,431 @@
+
+
+=======================================
+저장 시간 2025-06-05 오전 10:35:09 목요일
+=======================================
+
+//-------------------------------------------------------------------
+// 2025. STL 6월 5일                                       (13주 2일)
+//-------------------------------------------------------------------
+// 6월 19일 목요일 - 15주 2일(기말 시험)
+//-------------------------------------------------------------------
+// Associative container 
+// : key 값을 기준으로 정렬 상태를 유지하는 컨테이너
+// set / multi set - key == value
+// map / multi map - pair<key, value>
+//-------------------------------------------------------------------
+#include <iostream>
+#include <fstream>
+#include <map>
+#include "save.h"
+#include "STRING.h"
+extern bool 관찰;
+
+// 이상한 나라의 앨리스.txt 를 다운받는다
+// [문제] 가장 많이 사용된 단어(STRING)와 사용 횟수를 순서대로 출력하라
+
+//--------
+int main()
+//--------
+{
+	std::ifstream in{ "이상한 나라의 앨리스.txt" };
+	if (not in) {
+		std::cout << "파일 열기 실패" << std::endl;
+		return 20250605;
+	}
+
+	std::map<STRING, size_t> 단어와개수;
+
+	STRING 단어;
+	while (in >> 단어) {
+		단어와개수[단어]++;
+	}
+
+	for (auto [단어, 개수] : 단어와개수) {
+		std::cout << 단어 << " - " << 개수 << std::endl;
+	}
+
+	save("main.cpp");
+}
+
+
+=======================================
+저장 시간 2025-06-05 오전 10:45:26 목요일
+=======================================
+
+//-------------------------------------------------------------------
+// 2025. STL 6월 5일                                       (13주 2일)
+//-------------------------------------------------------------------
+// 6월 19일 목요일 - 15주 2일(기말 시험)
+//-------------------------------------------------------------------
+// Associative container 
+// : key 값을 기준으로 정렬 상태를 유지하는 컨테이너
+// set / multi set - key == value
+// map / multi map - pair<key, value>
+//-------------------------------------------------------------------
+#include <iostream>
+#include <fstream>
+#include <map>
+#include "save.h"
+#include "STRING.h"
+extern bool 관찰;
+
+// 이상한 나라의 앨리스.txt 를 다운받는다
+// [문제] 가장 많이 사용된 단어(STRING)와 사용 횟수를 순서대로 출력하라
+
+//--------
+int main()
+//--------
+{
+	std::ifstream in{ "이상한 나라의 앨리스.txt" };
+	if (not in) {
+		std::cout << "파일 열기 실패" << std::endl;
+		return 20250605;
+	}
+
+	std::map<STRING, size_t> 단어와개수;
+
+	STRING 단어;
+	while (in >> 단어) {
+		단어와개수[단어]++;
+	}
+
+	for (auto [단어, 개수] : 단어와개수) {
+		std::cout << 단어 << " - " << 개수 << std::endl;
+	}
+
+	std::cout << std::endl;
+
+	// [문제] 많이 사용된 단어부터 출력하자
+
+	std::map<size_t, STRING, std::greater<size_t>> 개수와단어;
+	// 이러면 해당 개수의 중복되는 단어들이 사라짐 ㅜㅜ 0점 답.
+
+	for (auto [단어, 개수] : 단어와개수) {
+		// 개수와단어.insert(std::pair<size_t, STRING>(개수, 단어));
+		// 개수와단어.insert(std::make_pair(개수, 단어));
+		개수와단어[개수] = 단어;
+	}
+
+	std::cout << "많이 사용된 단어 순서로 출력" << std::endl;
+
+	for (auto [개수, 단어] : 개수와단어) {
+		std::cout << 단어 << " \t- " << 개수 << std::endl;
+	}
+	save("main.cpp");
+}
+
+=======================================
+저장 시간 2025-06-05 오전 10:50:43 목요일
+=======================================
+
+//-------------------------------------------------------------------
+// 2025. STL 6월 5일                                       (13주 2일)
+//-------------------------------------------------------------------
+// 6월 19일 목요일 - 15주 2일(기말 시험)
+//-------------------------------------------------------------------
+// Associative container 
+// : key 값을 기준으로 정렬 상태를 유지하는 컨테이너
+// set / multi set - key == value
+// map / multi map - pair<key, value>
+//-------------------------------------------------------------------
+#include <iostream>
+#include <fstream>
+#include <map>
+#include "save.h"
+#include "STRING.h"
+extern bool 관찰;
+
+// 이상한 나라의 앨리스.txt 를 다운받는다
+// [문제] 가장 많이 사용된 단어(STRING)와 사용 횟수를 순서대로 출력하라
+
+//--------
+int main()
+//--------
+{
+	std::ifstream in{ "이상한 나라의 앨리스.txt" };
+	if (not in) {
+		std::cout << "파일 열기 실패" << std::endl;
+		return 20250605;
+	}
+
+	std::map<STRING, size_t> 단어와개수;
+
+	STRING 단어;
+	while (in >> 단어) {
+		단어와개수[단어]++;
+	}
+
+	for (auto [단어, 개수] : 단어와개수) {
+		std::cout << 단어 << " - " << 개수 << std::endl;
+	}
+
+
+	// [문제] 많이 사용된 단어부터 출력하자
+
+	std::multimap<size_t, STRING, std::greater<size_t>> 개수와단어;
+
+	for (auto [단어, 개수] : 단어와개수) {
+		// 개수와단어.insert(std::pair<size_t, STRING>(개수, 단어));
+		개수와단어.insert(std::make_pair(개수, 단어));
+	}
+
+	std::cout << std::endl;
+	std::cout << "많이 사용된 단어 순서로 출력" << std::endl;
+
+	for (auto [개수, 단어] : 개수와단어) {
+		std::cout << 단어 << " \t- " << 개수 << std::endl;
+	}
+	save("main.cpp");
+}
+
+=======================================
+저장 시간 2025-06-05 오전 11:10:42 목요일
+=======================================
+
+//-------------------------------------------------------------------
+// 2025. STL 6월 5일                                       (13주 2일)
+//-------------------------------------------------------------------
+// 6월 19일 목요일 - 15주 2일(기말 시험)
+//-------------------------------------------------------------------
+// Associative container 
+// : key 값을 기준으로 정렬 상태를 유지하는 컨테이너
+// set / multi set - key == value
+// map / multi map - pair<key, value>
+//-------------------------------------------------------------------
+#include <iostream>
+#include <fstream>
+#include <map>
+#include <array>
+#include <random>
+#include "save.h"
+#include "STRING.h"
+extern bool 관찰;
+
+std::default_random_engine dre;
+std::uniform_int_distribution uid{ 0,99'9999 };
+
+std::array<int, 10'0000> a;
+
+// [문제] a의 10만 개의 원소값은 유니폼한 분포인가?
+// a의 값을 10등분하여 개수를 센 후 출력하라.
+
+//--------
+int main()
+//--------
+{
+	std::map<int, size_t> 구간과개수;
+
+	for (int& num : a) {
+		num = uid(dre);
+		구간과개수[num / 10'0000]++;
+	}
+	
+	for (auto [구간, 개수] : 구간과개수) {
+		std::cout << 구간 << " \t- " << 개수 << std::endl;
+	}
+
+	save("main.cpp");
+}
+
+
+=======================================
+저장 시간 2025-06-05 오전 11:26:19 목요일
+=======================================
+
+//-------------------------------------------------------------------
+// 2025. STL 6월 5일                                       (13주 2일)
+//-------------------------------------------------------------------
+// 6월 19일 목요일 - 15주 2일(기말 시험)
+//-------------------------------------------------------------------
+// Associative container 
+// : key 값을 기준으로 정렬 상태를 유지하는 컨테이너
+// set / multi set - key == value
+// map / multi map - pair<key, value>
+//-------------------------------------------------------------------
+#include <iostream>
+#include <fstream>
+#include <map>
+#include <array>
+#include <random>
+#include "save.h"
+#include "STRING.h"
+extern bool 관찰;
+
+std::default_random_engine dre;
+std::normal_distribution nd{ 0.0, 3.0 };
+
+std::array<int, 10'0000> a;
+
+// [문제] a의 10만 개의 원소값은 normal 분포인가?
+// a의 값을 20등분하여 개수를 센 후 출력하라.
+
+//--------
+int main()
+//--------
+{
+	for (int& num : a) {
+		double d = nd(dre);
+		d *= 2'0000;
+		d += 50'0000;
+		if (d > 0)
+			num = (int)d;
+	}
+
+	std::map<double, size_t> 구간과개수;
+
+	for (int& num : a) {
+		구간과개수[num / 5'0000]++;
+	}
+
+	for (auto [구간, 개수] : 구간과개수) {
+		std::cout << 구간 << " \t- " << 개수 << std::endl;
+	}
+
+	save("main.cpp");
+}
+
+=======================================
+저장 시간 2025-06-05 오후 12:08:12 목요일
+=======================================
+
+//-------------------------------------------------------------------
+// 2025. STL 6월 5일                                       (13주 2일)
+//-------------------------------------------------------------------
+// 6월 19일 목요일 - 15주 2일(기말 시험)
+//-------------------------------------------------------------------
+// Unordered Associative container - Hash 구조
+//-------------------------------------------------------------------
+#include <iostream>
+#include <unordered_set>
+#include <string>
+#include "save.h"
+#include "STRING.h"
+extern bool 관찰;
+
+template<>
+struct std::hash<STRING> {
+	size_t operator()(const STRING& s) const{ // const를 넣어 일관성을 만들어주쟈 댜댜댜
+		// 이미 잘 정의되어 있는 타입으로 바꿔 hash 값을 결정하면 된다.
+		// STRING을 std::string으로 바꾸면 가능
+		std::string str(s.begin(), s.end());
+		// return std::hash<string>{}; // 호출가능 타입 객체 -> (str) 넣어서호출하면 됨
+		return std::hash<string>{}(str);
+	}
+};
+
+//--------
+int main()
+//--------
+{
+	std::unordered_set<STRING, std::hash<STRING>> us{ "1","22","333","4444" };
+
+	for (const STRING& s : us) {
+		std::cout << s << std::endl;
+	}
+
+	save("main.cpp");
+}
+
+
+=======================================
+저장 시간 2025-06-05 오후 12:17:01 목요일
+=======================================
+
+//-------------------------------------------------------------------
+// 2025. STL 6월 5일                                       (13주 2일)
+//-------------------------------------------------------------------
+// 6월 19일 목요일 - 15주 2일(기말 시험)
+//-------------------------------------------------------------------
+// Unordered Associative container - Hash 구조
+//-------------------------------------------------------------------
+#include <iostream>
+#include <unordered_set>
+#include <string>
+#include <print>
+#include "save.h"
+#include "STRING.h"
+extern bool 관찰;
+
+template<>
+struct std::hash<STRING> {
+	size_t operator()(const STRING& s) const {
+		// 이미 잘 정의되어 있는 타입으로 바꿔 hash 값을 결정하면 된다.
+		// STRING을 std::string으로 바꾸면 가능
+		std::string str(s.begin(), s.end());
+		return std::hash<string>{}(str);
+	}
+};
+
+//--------
+int main()
+//--------
+{
+	std::unordered_set<STRING, std::hash<STRING>> us{ "1","22","333","4444" };
+
+	// unordered_set의 메모리를 그대로 화면 출력한다.
+	for (size_t i = 0; i < us.bucket_count(); ++i) {
+		std::print("[{:>3}]", i);
+		for (auto bi = us.begin(i); bi != us.end(i); ++bi) {
+			std::cout << " -> " << *bi;
+		}
+		std::cout << std::endl;
+	}
+
+	save("main.cpp");
+}
+
+
+=======================================
+저장 시간 2025-06-05 오후 12:18:54 목요일
+=======================================
+
+//-------------------------------------------------------------------
+// 2025. STL 6월 5일                                       (13주 2일)
+//-------------------------------------------------------------------
+// 6월 19일 목요일 - 15주 2일(기말 시험)
+//-------------------------------------------------------------------
+// Unordered Associative container - Hash 구조
+//-------------------------------------------------------------------
+#include <iostream>
+#include <unordered_set>
+#include <string>
+#include <print>
+#include "save.h"
+#include "STRING.h"
+extern bool 관찰;
+
+template<>
+struct std::hash<STRING> {
+	size_t operator()(const STRING& s) const {
+		// 이미 잘 정의되어 있는 타입으로 바꿔 hash 값을 결정하면 된다.
+		// STRING을 std::string으로 바꾸면 가능
+		std::string str(s.begin(), s.end());
+		return std::hash<string>{}(str);
+	}
+};
+
+//--------
+int main()
+//--------
+{
+	save("main.cpp");
+
+	std::unordered_set<STRING, std::hash<STRING>> us{ "1","22","333","4444" };
+
+	// unordered_set의 메모리를 그대로 화면 출력한다.
+	while(true){
+		for (size_t i = 0; i < us.bucket_count(); ++i) {
+			std::print("[{:>3}]", i);
+			for (auto bi = us.begin(i); bi != us.end(i); ++bi) {
+				std::cout << " -> " << *bi;
+			}
+			std::cout << std::endl;
+		}
+		std::cout << "추가할 STRING을 입력하라 - ";
+		STRING s;
+		std::cin >> s;
+		us.insert(s);
+	}
+
+}
