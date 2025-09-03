@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
+                "file": "대학교/3-2/데이터베이스/과제 0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. chapter 1 (알고리즘의 첫걸음)"
+              "title": "과제 0"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "455fde384fd0d8c6",
   "lastOpenFiles": [
+    "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
+    "대학교/3-2/데이터베이스/과제 0.md",
+    "대학교/3-2/데이터베이스",
     "대학교/3-2/알고리즘/README.md",
     "대학교/3-2/알고리즘/alg_2025/ch1/ch1_5_knights_tour.py",
     "대학교/3-2/알고리즘/alg_2025/ch1/data_city.py",
@@ -195,8 +198,6 @@
     "대학교/3-2/알고리즘/alg_2025/ch1/ch1_2_search_seq.py",
     "대학교/3-2/알고리즘/alg_2025/ch1/ch1_2_find_max_sorted.py",
     "대학교/3-2/알고리즘/alg_2025/ch1/ch1_1_find_max.py",
-    "대학교/3-2/알고리즘/alg_2025/ch1",
-    "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
     "무제.canvas",
     "2025-09-03.md",
     "이름 없는 보드.md",
