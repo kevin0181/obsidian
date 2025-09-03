@@ -5,5 +5,6 @@
   "obsidian-git",
   "obsidian-kanban",
   "editing-toolbar",
-  "code-emitter"
+  "code-emitter",
+  "terminal"
 ]

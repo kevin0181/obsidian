@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7f1d870406e0b270",
+        "id": "c32a49cf81f009e6",
         "type": "tabs",
         "children": [
           {
-            "id": "3680362c8c6e7672",
+            "id": "666f6b3a9b90d045",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
+                "file": "대학교/3-2/알고리즘/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. chapter 1 (알고리즘의 첫걸음)"
+              "title": "README"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "de26b89e07fcd6dd",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
+                "file": "대학교/3-2/알고리즘/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1. chapter 1 (알고리즘의 첫걸음) 의 백링크"
+              "title": "README 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
+                "file": "대학교/3-2/알고리즘/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "1. chapter 1 (알고리즘의 첫걸음) 의 나가는 링크"
+              "title": "README 의 나가는 링크"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
+                "file": "대학교/3-2/알고리즘/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1. chapter 1 (알고리즘의 첫걸음) 의 개요"
+              "title": "README 의 개요"
             }
           },
           {
@@ -179,32 +179,34 @@
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:새 보드 만들기": false
+      "obsidian-kanban:새 보드 만들기": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "3680362c8c6e7672",
+  "active": "666f6b3a9b90d045",
   "lastOpenFiles": [
-    "대학교/3-2/가상현실과인간의삶/1주차_가상현실과 인간의 삶_OT.pdf",
-    "대학교/3-2/가상현실과인간의삶",
-    "대학교/3-2/새 폴더",
-    "무제.canvas",
+    "대학교/3-2/알고리즘/alg_2025/ch1/ch1_5_knights_tour.py",
+    "대학교/3-2/알고리즘/alg_2025/ch1/data_city.py",
+    "대학교/3-2/알고리즘/alg_2025/ch1/ch1_4_3_euler.py",
+    "대학교/3-2/알고리즘/alg_2025/ch1/ch1_3_search_bin.py",
+    "대학교/3-2/알고리즘/alg_2025/ch1/ch1_4_2_mkcity.py",
+    "대학교/3-2/알고리즘/alg_2025/ch1/ch1_4_1_oxford_words.py",
+    "대학교/3-2/알고리즘/alg_2025/ch1/ch1_2_search_seq.py",
+    "대학교/3-2/알고리즘/alg_2025/ch1/ch1_2_find_max_sorted.py",
+    "대학교/3-2/알고리즘/alg_2025/ch1/ch1_1_find_max.py",
+    "대학교/3-2/알고리즘/alg_2025/ch1",
+    "대학교/3-2/알고리즘/alg_2025",
+    "대학교/3-2/알고리즘/README.md",
     "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
+    "무제.canvas",
     "2025-09-03.md",
-    "무제.base",
-    "elice 기업은행/무제.base",
     "이름 없는 보드.md",
-    "대학교/졸작/최종(0.01).pdf",
-    "대학교/졸작/~$발표ppt.pptx",
-    "대학교/창업/사업계획서.docx",
     "3-1/네트워크 기초/기말고사 발표 한거사람들/주제2 디지털.md",
     "3-1/네트워크 기초/기말고사 발표 한거사람들/iptv 우리꺼 주제3.md",
     "2-2/2DG_PDF/file/LEC10_캐릭터컨트롤러 (1).md",
     "2-2/2DG_PDF/2DG_PDF TRACKER.md",
     "2-2/2DG_PDF/file/LEC00_과목소개.md",
     "2-2/2DG_PDF/file/LEC01_파이썬기초(1).md",
-    "3-1/네트워크 기초/기말고사 발표 한거사람들",
-    "3-1/STL/과제.md",
-    "3-1/STL/2025 STL 과제/2025 STL 과제 파일 - 2022180024",
-    "3-1/STL/2025 STL 과제/2025 STL 과제 자료생성.exe"
+    "3-1/STL/과제.md"
   ]
 }
