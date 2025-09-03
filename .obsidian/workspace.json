@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0487be758bf09919",
+        "id": "ed0153606ab886aa",
         "type": "tabs",
         "children": [
           {
-            "id": "1d923fa971a508c5",
+            "id": "8373a491ed3d5c43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "대학교/3-2/지능형로봇의이해/무제.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "무제"
+              "title": "새 탭"
             }
           }
         ]
@@ -169,8 +165,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d923fa971a508c5",
+  "active": "8373a491ed3d5c43",
   "lastOpenFiles": [
+    "이름 없는 보드.md",
+    "대학교/2-2/2DG_PDF/file/LEC00_과목소개.md",
+    "대학교/2-2/2DG_PDF/2DG_PDF TRACKER.md",
+    "무제.canvas",
+    "2025-09-03.md",
+    "무제.base",
     "대학교/3-2/지능형로봇의이해/무제.md",
     "대학교/3-2/지능형로봇의이해/1_인공지능 로봇의 이해_인공지능 로봇 개요.pdf",
     "대학교/3-2/지능형로봇의이해/0_지능형 로봇의 이해_Introduction.pdf",
@@ -182,10 +184,8 @@
     "대학교/3-2/데이터베이스",
     "대학교/3-2/가상현실과인간의삶/1주차_가상현실과 인간의 삶_OT.pdf",
     "대학교/3-2/가상현실과인간의삶",
-    "대학교/2-2/2DG_PDF/2DG_PDF TRACKER.md",
     "대학교/2-2/alg_pdf/02-intro.pdf",
     "elice 기업은행/(엘리스) IBK디지털연수_디지털 온보딩 2회차 프로젝트 교안_1_템플릿 엔진 및 Bootstrap 세팅 실습.pdf",
-    "대학교/졸작/최종(0.01).pdf",
     "3-1/네트워크 기초/기말고사 발표 한거사람들/주제2 디지털.md",
     "3-1/네트워크 기초/기말고사 발표 한거사람들/iptv 우리꺼 주제3.md",
     "2-2/2DG_PDF/file/LEC10_캐릭터컨트롤러 (1).md",
