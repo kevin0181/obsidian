@@ -1,7 +1,10 @@
 [
   "dataview",
-  "templater-obsidian",
   "docxer",
   "obsidian-icon-folder",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-kanban",
+  "editing-toolbar",
+  "code-emitter",
+  "terminal"
 ]
