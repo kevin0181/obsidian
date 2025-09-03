@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b566bc9e454563b3",
+        "id": "7f1d870406e0b270",
         "type": "tabs",
         "children": [
           {
-            "id": "9d23d7897603f0d5",
+            "id": "3680362c8c6e7672",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,12 +150,23 @@
               "icon": "lucide-list",
               "title": "1. chapter 1 (알고리즘의 첫걸음) 의 개요"
             }
+          },
+          {
+            "id": "27574e88f4b3de8f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 306.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -171,9 +182,14 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "9d23d7897603f0d5",
+  "active": "3680362c8c6e7672",
   "lastOpenFiles": [
+    "무제.canvas",
+    "2025-09-03.md",
+    "무제.base",
     "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
+    "elice 기업은행/무제.base",
+    "이름 없는 보드.md",
     "대학교/졸작/최종(0.01).pdf",
     "대학교/졸작/~$발표ppt.pptx",
     "대학교/창업/사업계획서.docx",
@@ -188,8 +204,6 @@
     "3-1/STL/2025 STL 과제/2025 STL 과제 파일 - 2022180024",
     "3-1/STL/2025 STL 과제/2025 STL 과제 자료생성.exe",
     "3-1/STL/2025 STL 과제/2025 STL 과제.pdf",
-    "3-1/STL/2025 STL 과제",
-    "3-1/STL/2025 STL 과제.Zip",
-    "3-1/STL/STL_1/STL_9/main.cpp"
+    "3-1/STL/2025 STL 과제"
   ]
 }
