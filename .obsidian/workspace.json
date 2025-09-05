@@ -13,20 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학교/3-2/네트워크_게임_프로그래밍/2. 2025.09.05 (pdf 1).md",
+                "file": "대학교/3-2/네트워크_게임_프로그래밍/1. 2025.09.04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. 2025.09.05 (pdf 1)"
+              "title": "1. 2025.09.04"
             }
-          }
-        ]
-      },
-      {
-        "id": "4345f6b968be9f10",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "d07ddf1b9a4517a1",
             "type": "leaf",
@@ -34,10 +28,10 @@
               "type": "pdf",
               "state": {
                 "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch01_네트워크와 소켓 프로그래밍.pdf",
-                "page": 1,
-                "left": -88,
-                "top": 544,
-                "zoom": 0.4
+                "page": 42,
+                "left": -94,
+                "top": 44,
+                "zoom": 0.8
               },
               "icon": "lucide-file-text",
               "title": "ch01_네트워크와 소켓 프로그래밍"
@@ -100,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "right": {
     "id": "de26b89e07fcd6dd",
@@ -211,25 +204,25 @@
   },
   "active": "dd62c769dbdb6e10",
   "lastOpenFiles": [
-    "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch01_네트워크와 소켓 프로그래밍.pdf",
     "대학교/3-2/네트워크_게임_프로그래밍/2. 2025.09.05 (pdf 1).md",
+    "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch01_네트워크와 소켓 프로그래밍.pdf",
+    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.read.2.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/unsuccessfulbuild",
+    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/Cl.items.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.exe.recipe",
+    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.secondary.1.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/x64/Debug/server1.exe",
+    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.ilk",
+    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.command.1.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.write.1.tlog",
     "대학교/3-2/네트워크_게임_프로그래밍/pdf traker (넷겜플).md",
     "ch01_네트워크와 소켓 프로그래밍.md",
     "대학교/2-2/2DG_PDF/file/LEC00_과목소개.md",
     "대학교/2-2/2DG_PDF/2DG_PDF TRACKER.md",
     "대학교/3-2/디지털리터러시와비판적사고/1. 2025.09.04.md",
-    "대학교/3-2/디지털리터러시와비판적사고",
     "대학교/3-2/데이터베이스/1장. 데이터베이스와 데이터베이스 사용자.md",
     "대학교/3-2/데이터베이스/1. 2025.09.04.md",
-    "대학교/3-2/데이터베이스/과제",
     "대학교/3-2/네트워크_게임_프로그래밍/1. 2025.09.04.md",
-    "대학교/족보/2024 데이터베이스 자료/8. 2024 DB_관계대수.pptx",
-    "대학교/족보/2024 데이터베이스 자료/7. 2024 DB_정규화.pptx",
-    "대학교/족보/2024 데이터베이스 자료/6. 2024 DB_ER-관계모델.pptx",
-    "대학교/족보/2024 데이터베이스 자료/5. 2024 DB_관계형데이타모델-배포.pptx",
-    "대학교/족보/2024 데이터베이스 자료/4. 2024 DB_ER모델1-2.pptx",
-    "대학교/족보/2024 데이터베이스 자료/3. 2024  DB_인덱스.pptx",
-    "대학교/족보/2024 데이터베이스 자료/3. 2024  DB_인덱스(일반적인 인덱스).pptx",
     "대학교/3-2/데이터베이스/과제/과제 0.md",
     "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
     "대학교/3-2/알고리즘/README.md",
