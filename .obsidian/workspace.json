@@ -4,17 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "a693a3d0e04fd1ee",
+        "id": "4be72e1346ce01b4",
         "type": "tabs",
         "children": [
           {
-            "id": "24cddee3d9501c33",
+            "id": "dd62c769dbdb6e10",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "대학교/3-2/네트워크_게임_프로그래밍/1. 2025.09.04.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "1. 2025.09.04"
+            }
+          },
+          {
+            "id": "d07ddf1b9a4517a1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch01_네트워크와 소켓 프로그래밍.pdf",
+                "page": 42,
+                "left": -94,
+                "top": 44,
+                "zoom": 0.8
+              },
+              "icon": "lucide-file-text",
+              "title": "ch01_네트워크와 소켓 프로그래밍"
             }
           }
         ]
@@ -49,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"대학교/3-2/지능형로봇의이해/\" ",
+                "query": "tag:2DG",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 286.5
   },
   "right": {
     "id": "de26b89e07fcd6dd",
@@ -90,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "1. chapter 1 (알고리즘의 첫걸음) 의 백링크"
             }
           },
           {
@@ -108,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "1. chapter 1 (알고리즘의 첫걸음) 의 나가는 링크"
             }
           },
           {
@@ -136,25 +158,38 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "1. chapter 1 (알고리즘의 첫걸음) 의 개요"
+            }
+          },
+          {
+            "id": "27574e88f4b3de8f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 306.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:새 보드 만들기": false,
-      "terminal:Open terminal": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -163,33 +198,38 @@
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
       "obsidian-git:Open Git source control": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "obsidian-kanban:새 보드 만들기": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "24cddee3d9501c33",
+  "active": "dd62c769dbdb6e10",
   "lastOpenFiles": [
-    "대학교/졸작/최종(0.01).pdf",
-    "대학교/졸작/무제.md",
-    "대학교/창업/사업계획서.docx",
-    "이름 없는 보드.md",
+    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.19320.read.1.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.19320.read.4.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.19320-cvtres.write.1.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.19320-cvtres.read.1.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.19320-rc.write.1.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.19320-rc.read.1.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.19320.read.3.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.19320.read.2.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/Server.obj",
+    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/unsuccessfulbuild",
+    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/it5qaurj.42t~",
+    "대학교/3-2/네트워크_게임_프로그래밍/2. 2025.09.05 (pdf 1).md",
+    "대학교/3-2/네트워크_게임_프로그래밍/pdf traker (넷겜플).md",
+    "ch01_네트워크와 소켓 프로그래밍.md",
     "대학교/2-2/2DG_PDF/file/LEC00_과목소개.md",
     "대학교/2-2/2DG_PDF/2DG_PDF TRACKER.md",
+    "대학교/3-2/디지털리터러시와비판적사고/1. 2025.09.04.md",
+    "대학교/3-2/데이터베이스/1장. 데이터베이스와 데이터베이스 사용자.md",
+    "대학교/3-2/데이터베이스/1. 2025.09.04.md",
+    "대학교/3-2/네트워크_게임_프로그래밍/1. 2025.09.04.md",
+    "대학교/3-2/데이터베이스/과제/과제 0.md",
+    "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
+    "대학교/3-2/알고리즘/README.md",
     "무제.canvas",
     "2025-09-03.md",
-    "무제.base",
-    "대학교/3-2/지능형로봇의이해/무제.md",
-    "대학교/3-2/지능형로봇의이해/1_인공지능 로봇의 이해_인공지능 로봇 개요.pdf",
-    "대학교/3-2/지능형로봇의이해/0_지능형 로봇의 이해_Introduction.pdf",
-    "대학교/3-2/지능형로봇의이해",
-    "대학교/3-2/데이터베이스/과제 0.md",
-    "conflict-files-obsidian-git.md",
-    "대학교/3-2/알고리즘/alg_2025",
-    "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
-    "대학교/3-2/데이터베이스",
-    "대학교/3-2/가상현실과인간의삶/1주차_가상현실과 인간의 삶_OT.pdf",
-    "대학교/3-2/가상현실과인간의삶",
+    "이름 없는 보드.md",
     "3-1/네트워크 기초/기말고사 발표 한거사람들/주제2 디지털.md",
     "3-1/네트워크 기초/기말고사 발표 한거사람들/iptv 우리꺼 주제3.md",
     "2-2/2DG_PDF/file/LEC10_캐릭터컨트롤러 (1).md",
