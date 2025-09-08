@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4be72e1346ce01b4",
+        "id": "03703f860c72cc4a",
         "type": "tabs",
         "children": [
           {
-            "id": "dd62c769dbdb6e10",
+            "id": "d84219961e7ff45c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "대학교/3-2/네트워크_게임_프로그래밍/1. 2025.09.04.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1. 2025.09.04"
-            }
-          },
-          {
-            "id": "d07ddf1b9a4517a1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch01_네트워크와 소켓 프로그래밍.pdf",
-                "page": 42,
-                "left": -94,
-                "top": 44,
-                "zoom": 0.8
-              },
-              "icon": "lucide-file-text",
-              "title": "ch01_네트워크와 소켓 프로그래밍"
+              "title": "새 탭"
             }
           }
         ]
@@ -202,8 +182,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "dd62c769dbdb6e10",
+  "active": "dadd3c25a1b9ada9",
   "lastOpenFiles": [
+    "대학교/3-2/네트워크_게임_프로그래밍/1. 2025.09.04.md",
+    "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch01_네트워크와 소켓 프로그래밍.pdf",
     "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.19320.read.1.tlog",
     "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.19320.read.4.tlog",
     "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.19320-cvtres.write.1.tlog",
@@ -213,8 +195,6 @@
     "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.19320.read.3.tlog",
     "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.19320.read.2.tlog",
     "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/Server.obj",
-    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/unsuccessfulbuild",
-    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/it5qaurj.42t~",
     "대학교/3-2/네트워크_게임_프로그래밍/2. 2025.09.05 (pdf 1).md",
     "대학교/3-2/네트워크_게임_프로그래밍/pdf traker (넷겜플).md",
     "ch01_네트워크와 소켓 프로그래밍.md",
@@ -223,7 +203,6 @@
     "대학교/3-2/디지털리터러시와비판적사고/1. 2025.09.04.md",
     "대학교/3-2/데이터베이스/1장. 데이터베이스와 데이터베이스 사용자.md",
     "대학교/3-2/데이터베이스/1. 2025.09.04.md",
-    "대학교/3-2/네트워크_게임_프로그래밍/1. 2025.09.04.md",
     "대학교/3-2/데이터베이스/과제/과제 0.md",
     "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
     "대학교/3-2/알고리즘/README.md",
