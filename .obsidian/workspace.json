@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e1445c944fd31db4",
+        "id": "260636e2cd0aee8c",
         "type": "tabs",
         "children": [
           {
-            "id": "a3486694fe5279c6",
+            "id": "eba5394fad287fcb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 349.5
   },
   "right": {
     "id": "de26b89e07fcd6dd",
@@ -182,8 +182,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a3486694fe5279c6",
+  "active": "dadd3c25a1b9ada9",
   "lastOpenFiles": [
+    "대학교/3-2/인공지능/pdf",
     "대학교/3-2/알고리즘/README.md",
     "대학교/3-2/알고리즘/alg_2025/week03_ch6/data_unsorted_a_lot.py",
     "대학교/3-2/알고리즘/alg_2025/week03_ch6/data_unsorted.py",
