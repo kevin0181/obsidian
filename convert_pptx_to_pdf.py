@@ -25,6 +25,6 @@ def pptx_to_pdf(input_folder, output_folder):
 
 # 사용 예시
 if __name__ == "__main__":
-    input_dir = "/Users/you/Documents/pptx_files"   # PPTX가 있는 폴더
-    output_dir = "/Users/you/Documents/pdf_files"   # 변환된 PDF 저장할 폴더
+    input_dir = "/Users/yuyeongbin/Desktop/obsidian/대학교/3-2/인공지능/ppt"   # PPTX가 있는 폴더
+    output_dir = "/Users/yuyeongbin/Desktop/obsidian/대학교/3-2/인공지능/pdf"   # 변환된 PDF 저장할 폴더
     pptx_to_pdf(input_dir, output_dir)
