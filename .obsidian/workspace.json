@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "03703f860c72cc4a",
+        "id": "ad6a3bccfe1c0b89",
         "type": "tabs",
         "children": [
           {
-            "id": "d84219961e7ff45c",
+            "id": "1b57d5af1b810091",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -153,8 +153,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -167,9 +167,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -179,11 +176,15 @@
       "bases:새 베이스 생성하기": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:새 보드 만들기": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "dadd3c25a1b9ada9",
+  "active": "1b57d5af1b810091",
   "lastOpenFiles": [
+    "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
     "대학교/3-2/네트워크_게임_프로그래밍/1. 2025.09.04.md",
     "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch01_네트워크와 소켓 프로그래밍.pdf",
     "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.19320.read.1.tlog",
@@ -204,7 +205,6 @@
     "대학교/3-2/데이터베이스/1장. 데이터베이스와 데이터베이스 사용자.md",
     "대학교/3-2/데이터베이스/1. 2025.09.04.md",
     "대학교/3-2/데이터베이스/과제/과제 0.md",
-    "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
     "대학교/3-2/알고리즘/README.md",
     "무제.canvas",
     "2025-09-03.md",
