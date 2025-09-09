@@ -11,10 +11,16 @@
             "id": "4c0847e9cfaef4d7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "type": "pdf",
+              "state": {
+                "file": "대학교/3-2/인공지능/pdf/(1주-2)혼자 공부하는 머신러닝+딥러닝(개정판)_CHAPTER01(인공지능개론).pdf",
+                "page": 18,
+                "left": -19,
+                "top": 200,
+                "zoom": 0.7867110067814291
+              },
+              "icon": "lucide-file-text",
+              "title": "(1주-2)혼자 공부하는 머신러닝+딥러닝(개정판)_CHAPTER01(인공지능개론)"
             }
           }
         ]
@@ -184,6 +190,8 @@
   },
   "active": "4c0847e9cfaef4d7",
   "lastOpenFiles": [
+    "대학교/3-2/인공지능/jupyter_/Untitled.ipynb",
+    "대학교/3-2/인공지능/jupyter_/untitled.py",
     "대학교/3-2/인공지능/jupyter_/jupyter notebook.md",
     "대학교/3-2/인공지능/pdf/(1주-2)혼자 공부하는 머신러닝+딥러닝(개정판)_CHAPTER01(인공지능개론).pdf",
     "대학교/3-2/인공지능/jupyter_",
@@ -194,7 +202,6 @@
     "대학교/3-2/인공지능/pdf/2025-가을학기(게임공) 인공지능.pdf",
     "대학교/3-2/인공지능/ppt/~$2025-가을학기(게임공) 인공지능.pptx",
     "대학교/3-2/인공지능/ppt/~$2025-가을학기(게임공) 인공지능-강의정보.pptx",
-    "대학교/3-2/인공지능/ppt/~$(14주-0)혼자 공부하는 머신러닝+딥러닝(개정판)_CHAPTER10(Attention-Transformer).pptx",
     "대학교/3-2/알고리즘/README.md",
     "대학교/3-2/알고리즘/alg_2025/README.md",
     "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
