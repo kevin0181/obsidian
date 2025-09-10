@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5a85aae45273319e",
+        "id": "32ff1342f931a32b",
         "type": "tabs",
         "children": [
           {
-            "id": "f472cd1de50e7dc0",
+            "id": "b3f9f235ffc7dfb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "새 탭"
             }
           }
         ]
@@ -186,8 +182,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f472cd1de50e7dc0",
+  "active": "b3f9f235ffc7dfb0",
   "lastOpenFiles": [
+    "무제.md",
     "conflict-files-obsidian-git.md",
     "대학교/3-2/인공지능/pdf/(1주-0)제02장 파이썬과 넘파이 복습(강의)-24.pdf",
     "대학교/3-2/알고리즘/alg_2025/week03_ch6/data_unsorted_a_lot.py",
