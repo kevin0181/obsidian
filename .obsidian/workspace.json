@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "32ff1342f931a32b",
+        "id": "6f2bd8a6ba479c6c",
         "type": "tabs",
         "children": [
           {
-            "id": "b3f9f235ffc7dfb0",
+            "id": "6deece92037d107e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -182,8 +182,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b3f9f235ffc7dfb0",
+  "active": "6deece92037d107e",
   "lastOpenFiles": [
+    "대학교/3-2/지능형로봇의이해/2주차_4차산업혁명과 핵심분야.pdf",
     "무제.md",
     "conflict-files-obsidian-git.md",
     "대학교/3-2/인공지능/pdf/(1주-0)제02장 파이썬과 넘파이 복습(강의)-24.pdf",
