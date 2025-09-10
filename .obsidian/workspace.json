@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "03703f860c72cc4a",
+        "id": "60941f7a033fb93e",
         "type": "tabs",
         "children": [
           {
-            "id": "d84219961e7ff45c",
+            "id": "14beac786564b32b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -184,6 +184,7 @@
   },
   "active": "dadd3c25a1b9ada9",
   "lastOpenFiles": [
+    "인쉥",
     "대학교/3-2/네트워크_게임_프로그래밍/1. 2025.09.04.md",
     "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch01_네트워크와 소켓 프로그래밍.pdf",
     "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.19320.read.1.tlog",
