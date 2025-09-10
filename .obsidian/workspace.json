@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6f2bd8a6ba479c6c",
+        "id": "7138c25da2ba95d1",
         "type": "tabs",
         "children": [
           {
-            "id": "6deece92037d107e",
+            "id": "50602cde18cb1181",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "대학교/3-2/데이터베이스/2장. 데이터베이스와 데이터베이스 사용자.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2장. 데이터베이스와 데이터베이스 사용자"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428.5
+    "width": 342.5
   },
   "right": {
     "id": "de26b89e07fcd6dd",
@@ -182,8 +186,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6deece92037d107e",
+  "active": "50602cde18cb1181",
   "lastOpenFiles": [
+    "대학교/3-2/데이터베이스/1장. 데이터베이스와 데이터베이스 사용자.md",
+    "대학교/3-2/데이터베이스/2장. 데이터베이스와 데이터베이스 사용자.md",
+    "대학교/3-2/데이터베이스/1. 2025.09.04.md",
     "대학교/3-2/지능형로봇의이해/2주차_4차산업혁명과 핵심분야.pdf",
     "무제.md",
     "conflict-files-obsidian-git.md",
@@ -196,7 +203,6 @@
     "대학교/3-2/알고리즘/alg_2025/week02_python/p08_list_comprehension.py",
     "대학교/3-2/알고리즘/alg_2025/week02_python/p06_text_format.py",
     "대학교/3-2/알고리즘/alg_2025/week02_python/p05_class.py",
-    "대학교/3-2/알고리즘/alg_2025/week02_python/p03_tuple.py",
     "대학교/3-2/인공지능/jupyter_/jupyter notebook.md",
     "대학교/3-2/네트워크_게임_프로그래밍/1. 2025.09.04.md",
     "대학교/3-2/네트워크_게임_프로그래밍/2. 2025.09.05 (pdf 1).md",
@@ -205,8 +211,6 @@
     "대학교/2-2/2DG_PDF/file/LEC00_과목소개.md",
     "대학교/2-2/2DG_PDF/2DG_PDF TRACKER.md",
     "대학교/3-2/디지털리터러시와비판적사고/1. 2025.09.04.md",
-    "대학교/3-2/데이터베이스/1장. 데이터베이스와 데이터베이스 사용자.md",
-    "대학교/3-2/데이터베이스/1. 2025.09.04.md",
     "대학교/3-2/데이터베이스/과제/과제 0.md",
     "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
     "대학교/3-2/알고리즘/README.md",
