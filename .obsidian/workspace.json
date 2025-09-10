@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "60941f7a033fb93e",
         "type": "tabs",
         "children": [
           {
             "id": "14beac786564b32b",
+=======
+        "id": "684cbb0189a12a44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7f3e6153bb34bc7",
+>>>>>>> 44988a6aecd51a62b3afd385dcc219395c2c485e
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "대학교/3-2/데이터베이스/1장. 데이터베이스와 데이터베이스 사용자.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "1장. 데이터베이스와 데이터베이스 사용자"
             }
           }
         ]
@@ -74,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 342.5
   },
   "right": {
     "id": "de26b89e07fcd6dd",
@@ -182,28 +194,35 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "dadd3c25a1b9ada9",
+  "active": "e7f3e6153bb34bc7",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "인쉥",
+=======
+    "대학교/3-2/데이터베이스/2장. 데이터베이스와 데이터베이스 사용자.md",
+    "대학교/3-2/데이터베이스/1장. 데이터베이스와 데이터베이스 사용자.md",
+    "대학교/3-2/데이터베이스/1. 2025.09.04.md",
+    "대학교/3-2/지능형로봇의이해/2주차_4차산업혁명과 핵심분야.pdf",
+    "무제.md",
+    "conflict-files-obsidian-git.md",
+    "대학교/3-2/인공지능/pdf/(1주-0)제02장 파이썬과 넘파이 복습(강의)-24.pdf",
+    "대학교/3-2/알고리즘/alg_2025/week03_ch6/data_unsorted_a_lot.py",
+    "대학교/3-2/알고리즘/alg_2025/week03_ch6/data_graph.py",
+    "대학교/3-2/알고리즘/alg_2025/week03_ch6/data_unsorted.py",
+    "대학교/3-2/알고리즘/alg_2025/week03_ch6",
+    "대학교/3-2/알고리즘/alg_2025/week02_python/p07_module.py",
+    "대학교/3-2/알고리즘/alg_2025/week02_python/p08_list_comprehension.py",
+    "대학교/3-2/알고리즘/alg_2025/week02_python/p06_text_format.py",
+    "대학교/3-2/알고리즘/alg_2025/week02_python/p05_class.py",
+    "대학교/3-2/인공지능/jupyter_/jupyter notebook.md",
+>>>>>>> 44988a6aecd51a62b3afd385dcc219395c2c485e
     "대학교/3-2/네트워크_게임_프로그래밍/1. 2025.09.04.md",
-    "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch01_네트워크와 소켓 프로그래밍.pdf",
-    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.19320.read.1.tlog",
-    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.19320.read.4.tlog",
-    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.19320-cvtres.write.1.tlog",
-    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.19320-cvtres.read.1.tlog",
-    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.19320-rc.write.1.tlog",
-    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.19320-rc.read.1.tlog",
-    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.19320.read.3.tlog",
-    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/server1.tlog/link.19320.read.2.tlog",
-    "대학교/3-2/네트워크_게임_프로그래밍/project/server1/server1/x64/Debug/Server.obj",
     "대학교/3-2/네트워크_게임_프로그래밍/2. 2025.09.05 (pdf 1).md",
     "대학교/3-2/네트워크_게임_프로그래밍/pdf traker (넷겜플).md",
     "ch01_네트워크와 소켓 프로그래밍.md",
     "대학교/2-2/2DG_PDF/file/LEC00_과목소개.md",
     "대학교/2-2/2DG_PDF/2DG_PDF TRACKER.md",
     "대학교/3-2/디지털리터러시와비판적사고/1. 2025.09.04.md",
-    "대학교/3-2/데이터베이스/1장. 데이터베이스와 데이터베이스 사용자.md",
-    "대학교/3-2/데이터베이스/1. 2025.09.04.md",
     "대학교/3-2/데이터베이스/과제/과제 0.md",
     "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
     "대학교/3-2/알고리즘/README.md",
