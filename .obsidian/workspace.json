@@ -4,17 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "6f2bd8a6ba479c6c",
+        "id": "3a1d41fdff65af73",
         "type": "tabs",
         "children": [
           {
-            "id": "6deece92037d107e",
+            "id": "4c0847e9cfaef4d7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "type": "pdf",
+              "state": {
+                "file": "대학교/3-2/인공지능/pdf/(1주-2)혼자 공부하는 머신러닝+딥러닝(개정판)_CHAPTER01(인공지능개론).pdf",
+                "page": 45,
+                "left": -19,
+                "top": 172,
+                "zoom": 0.7867110067814291
+              },
+              "icon": "lucide-file-text",
+              "title": "(1주-2)혼자 공부하는 머신러닝+딥러닝(개정판)_CHAPTER01(인공지능개론)"
             }
           }
         ]
@@ -74,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 349.5
   },
   "right": {
     "id": "de26b89e07fcd6dd",
@@ -153,8 +159,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -167,9 +173,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -179,25 +182,29 @@
       "bases:새 베이스 생성하기": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:새 보드 만들기": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6deece92037d107e",
+  "active": "4c0847e9cfaef4d7",
   "lastOpenFiles": [
     "대학교/3-2/지능형로봇의이해/2주차_4차산업혁명과 핵심분야.pdf",
-    "무제.md",
-    "conflict-files-obsidian-git.md",
-    "대학교/3-2/인공지능/pdf/(1주-0)제02장 파이썬과 넘파이 복습(강의)-24.pdf",
-    "대학교/3-2/알고리즘/alg_2025/week03_ch6/data_unsorted_a_lot.py",
-    "대학교/3-2/알고리즘/alg_2025/week03_ch6/data_graph.py",
-    "대학교/3-2/알고리즘/alg_2025/week03_ch6/data_unsorted.py",
-    "대학교/3-2/알고리즘/alg_2025/week03_ch6",
-    "대학교/3-2/알고리즘/alg_2025/week02_python/p07_module.py",
-    "대학교/3-2/알고리즘/alg_2025/week02_python/p08_list_comprehension.py",
-    "대학교/3-2/알고리즘/alg_2025/week02_python/p06_text_format.py",
-    "대학교/3-2/알고리즘/alg_2025/week02_python/p05_class.py",
-    "대학교/3-2/알고리즘/alg_2025/week02_python/p03_tuple.py",
+    "대학교/3-2/인공지능/jupyter_/Untitled.ipynb",
+    "대학교/3-2/인공지능/jupyter_/untitled.py",
     "대학교/3-2/인공지능/jupyter_/jupyter notebook.md",
+    "대학교/3-2/인공지능/pdf/(1주-2)혼자 공부하는 머신러닝+딥러닝(개정판)_CHAPTER01(인공지능개론).pdf",
+    "대학교/3-2/인공지능/jupyter_",
+    "대학교/3-2/인공지능/pdf/(2주-0)AI-02 탐색과 최적화.pdf",
+    "대학교/3-2/인공지능/pdf/(1주-1)AI-01 인공지능 소개.pdf",
+    "대학교/3-2/인공지능/pdf/(1주-0)제02장 파이썬과 넘파이 복습(강의)-24.pdf",
+    "대학교/3-2/인공지능/pdf/2025-가을학기(게임공) 인공지능-강의정보.pdf",
+    "대학교/3-2/인공지능/pdf/2025-가을학기(게임공) 인공지능.pdf",
+    "대학교/3-2/인공지능/ppt/~$2025-가을학기(게임공) 인공지능.pptx",
+    "대학교/3-2/알고리즘/README.md",
+    "대학교/3-2/알고리즘/alg_2025/README.md",
+    "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
     "대학교/3-2/네트워크_게임_프로그래밍/1. 2025.09.04.md",
     "대학교/3-2/네트워크_게임_프로그래밍/2. 2025.09.05 (pdf 1).md",
     "대학교/3-2/네트워크_게임_프로그래밍/pdf traker (넷겜플).md",
@@ -208,8 +215,6 @@
     "대학교/3-2/데이터베이스/1장. 데이터베이스와 데이터베이스 사용자.md",
     "대학교/3-2/데이터베이스/1. 2025.09.04.md",
     "대학교/3-2/데이터베이스/과제/과제 0.md",
-    "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
-    "대학교/3-2/알고리즘/README.md",
     "무제.canvas",
     "2025-09-03.md",
     "이름 없는 보드.md",
