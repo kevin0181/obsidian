@@ -3,6 +3,7 @@
 
 int main(int argc, char* argv[])
 {
+	// 楷嚼 苞力 2025.09.11
 	BYTE low = 2; // 0x02
 	BYTE high = 2; // 0x02
 
@@ -20,12 +21,12 @@ int main(int argc, char* argv[])
 	std::cout << "szSystemStatus : " << wsa.szSystemStatus << std::endl;
 
 	// 家南 积己
-	//SOCKET sock = socket(AF_INET, SOCK_STREAM, 0);
-	//if (sock == INVALID_SOCKET) err_quit("socket()");
-	//printf("[舅覆] 家南 积己 己傍\n");
+	SOCKET sock = socket(AF_INET, SOCK_STREAM, 0);
+	if (sock == INVALID_SOCKET) err_quit("socket()");
+	printf("[舅覆] 家南 积己 己傍\n");
 
-	//// 家南 摧扁
-	//closesocket(sock);
+	// 家南 摧扁
+	closesocket(sock);
 
 	// 扩加 辆丰
 	WSACleanup();
