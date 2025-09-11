@@ -35,14 +35,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch01_네트워크와 소켓 프로그래밍.pdf",
-                "page": 42,
+                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
+                "page": 7,
                 "left": -33,
-                "top": 427,
+                "top": 545,
                 "zoom": 0.478125
               },
               "icon": "lucide-file-text",
-              "title": "ch01_네트워크와 소켓 프로그래밍"
+              "title": "ch02_소켓 시작하기"
             }
           }
         ]
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch01_네트워크와 소켓 프로그래밍.pdf",
+                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "ch01_네트워크와 소켓 프로그래밍 의 백링크"
+              "title": "ch02_소켓 시작하기 의 백링크"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch01_네트워크와 소켓 프로그래밍.pdf",
+                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ch01_네트워크와 소켓 프로그래밍 의 나가는 링크"
+              "title": "ch02_소켓 시작하기 의 나가는 링크"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch01_네트워크와 소켓 프로그래밍.pdf",
+                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ch01_네트워크와 소켓 프로그래밍 의 개요"
+              "title": "ch02_소켓 시작하기 의 개요"
             }
           }
         ]
@@ -202,18 +202,17 @@
   },
   "active": "03a58bc332b774c1",
   "lastOpenFiles": [
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Debug/ch2.tlog/CL.command.1.tlog",
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Debug/vc143.idb",
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Debug/vc143.pdb",
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Debug/ch2.tlog/unsuccessfulbuild",
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Debug/ch2.tlog/ch2.lastbuildstate",
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Debug/ch2.tlog",
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Debug/ch2.log",
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Debug",
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64",
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/Common.h",
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/main.cpp",
+    "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch01_네트워크와 소켓 프로그래밍.pdf",
     "대학교/3-2/네트워크_게임_프로그래밍/2. 소켓 시작하기.md",
+    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Debug/ch2.tlog/Cl.items.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Debug/ch2.exe.recipe",
+    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Debug/ch2.tlog/link.command.1.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Debug/ch2.tlog/link.secondary.1.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Debug/ch2.tlog/link.write.1.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Debug/ch2.tlog/link.read.1.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Debug/ch2.tlog/link.read.4.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Debug/ch2.tlog/link-cvtres.write.1.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Debug/ch2.tlog/link-cvtres.read.1.tlog",
     "대학교/3-2/네트워크_게임_프로그래밍/2. 2025.09.05 (pdf 1).md",
     "대학교/3-2/네트워크_게임_프로그래밍/1. 2025.09.04.md",
     "무제.md",
