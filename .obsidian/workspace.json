@@ -4,11 +4,27 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "aaa41bed4f587b13",
         "type": "tabs",
         "children": [
           {
             "id": "356cf2554d9c87b5",
+=======
+<<<<<<< HEAD
+        "id": "60941f7a033fb93e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14beac786564b32b",
+=======
+        "id": "684cbb0189a12a44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7f3e6153bb34bc7",
+>>>>>>> 44988a6aecd51a62b3afd385dcc219395c2c485e
+>>>>>>> origin/master
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -184,6 +200,13 @@
   },
   "active": "dadd3c25a1b9ada9",
   "lastOpenFiles": [
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    "인쉥",
+=======
+    "대학교/3-2/데이터베이스/2장. 데이터베이스와 데이터베이스 사용자.md",
+>>>>>>> origin/master
     "대학교/3-2/데이터베이스/1장. 데이터베이스와 데이터베이스 사용자.md",
     "대학교/3-2/데이터베이스/2장. 데이터베이스와 데이터베이스 사용자.md",
     "대학교/3-2/데이터베이스/1. 2025.09.04.md",
@@ -200,6 +223,7 @@
     "대학교/3-2/알고리즘/alg_2025/week02_python/p06_text_format.py",
     "대학교/3-2/알고리즘/alg_2025/week02_python/p05_class.py",
     "대학교/3-2/인공지능/jupyter_/jupyter notebook.md",
+>>>>>>> 44988a6aecd51a62b3afd385dcc219395c2c485e
     "대학교/3-2/네트워크_게임_프로그래밍/1. 2025.09.04.md",
     "대학교/3-2/네트워크_게임_프로그래밍/2. 2025.09.05 (pdf 1).md",
     "대학교/3-2/네트워크_게임_프로그래밍/pdf traker (넷겜플).md",
