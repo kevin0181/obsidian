@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a2d5cd6a3ae98acf",
@@ -175,7 +176,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "10e060bf8aeb4a89",
+  "active": "74432e88505a0671",
   "lastOpenFiles": [
     "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
     "대학교/3-2/네트워크_게임_프로그래밍/2. 소켓 시작하기.md",
