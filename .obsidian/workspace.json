@@ -6,6 +6,7 @@
       {
         "id": "ce582087fc66bd5d",
         "type": "tabs",
+        "dimension": 47.0873786407767,
         "children": [
           {
             "id": "74432e88505a0671",
@@ -26,6 +27,7 @@
       {
         "id": "666c3339d5f28704",
         "type": "tabs",
+        "dimension": 52.9126213592233,
         "children": [
           {
             "id": "61f0e37c3c0793cd",
@@ -35,7 +37,7 @@
               "state": {
                 "file": "대학교/3-2/데이터베이스/pdf/2. DB_데이터베이스와 사용자.pdf",
                 "page": 9,
-                "left": -19,
+                "left": -41,
                 "top": 86,
                 "zoom": 0.6
               },
