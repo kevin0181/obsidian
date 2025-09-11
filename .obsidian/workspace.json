@@ -4,17 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "52ad7b0cba8dd0e6",
+        "id": "e0de6716abcae16b",
         "type": "tabs",
         "children": [
           {
-            "id": "f434e9d8f7f0e11a",
+            "id": "2de9908357c2398d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "type": "pdf",
+              "state": {
+                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
+                "page": 5,
+                "left": -23,
+                "top": 169,
+                "zoom": 0.690625
+              },
+              "icon": "lucide-file-text",
+              "title": "ch02_소켓 시작하기"
             }
           }
         ]
@@ -90,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학교/3-2/디지털리터러시와비판적사고/1. 2025.09.04.md",
+                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1. 2025.09.04 의 백링크"
+              "title": "ch02_소켓 시작하기 의 백링크"
             }
           },
           {
@@ -109,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학교/3-2/디지털리터러시와비판적사고/1. 2025.09.04.md",
+                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "1. 2025.09.04 의 나가는 링크"
+              "title": "ch02_소켓 시작하기 의 나가는 링크"
             }
           },
           {
@@ -138,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학교/3-2/디지털리터러시와비판적사고/1. 2025.09.04.md",
+                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1. 2025.09.04 의 개요"
+              "title": "ch02_소켓 시작하기 의 개요"
             }
           }
         ]
@@ -171,8 +177,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "10e060bf8aeb4a89",
+  "active": "2de9908357c2398d",
   "lastOpenFiles": [
+    "무제.md",
+    "대학교/3-2/디지털리터러시와비판적사고/1. 2025.09.04.md",
     "대학교/3-2/디지털리터러시와비판적사고/pdf/[수업] 2주차_디지털리터러시의 이해.pdf",
     "대학교/3-2/디지털리터러시와비판적사고/pdf",
     "대학교/3-2/디지털리터러시와비판적사고/새 폴더"
