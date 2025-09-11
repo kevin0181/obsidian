@@ -6,7 +6,7 @@
       {
         "id": "b82e8c85076d8ea4",
         "type": "tabs",
-        "dimension": 46.27831715210356,
+        "dimension": 47.896440129449836,
         "children": [
           {
             "id": "3599bbe54eb1776a",
@@ -27,7 +27,7 @@
       {
         "id": "b34bfff7770f5a08",
         "type": "tabs",
-        "dimension": 53.72168284789643,
+        "dimension": 52.103559870550164,
         "children": [
           {
             "id": "03a58bc332b774c1",
@@ -37,9 +37,9 @@
               "state": {
                 "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
                 "page": 20,
-                "left": -33,
-                "top": 78,
-                "zoom": 0.478125
+                "left": -32,
+                "top": 396,
+                "zoom": 0.4625
               },
               "icon": "lucide-file-text",
               "title": "ch02_소켓 시작하기"
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
+                "file": "대학교/3-2/네트워크_게임_프로그래밍/2. 소켓 시작하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "ch02_소켓 시작하기 의 백링크"
+              "title": "2. 소켓 시작하기 의 백링크"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
+                "file": "대학교/3-2/네트워크_게임_프로그래밍/2. 소켓 시작하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ch02_소켓 시작하기 의 나가는 링크"
+              "title": "2. 소켓 시작하기 의 나가는 링크"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
+                "file": "대학교/3-2/네트워크_게임_프로그래밍/2. 소켓 시작하기.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ch02_소켓 시작하기 의 개요"
+              "title": "2. 소켓 시작하기 의 개요"
             }
           }
         ]
@@ -200,13 +200,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "03a58bc332b774c1",
+  "active": "3599bbe54eb1776a",
   "lastOpenFiles": [
+    "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
     "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Debug/ch2.tlog/link.read.2.tlog",
     "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Debug/main.obj",
     "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Debug/ch2.tlog/unsuccessfulbuild",
     "대학교/3-2/네트워크_게임_프로그래밍/2. 소켓 시작하기.md",
-    "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
     "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch01_네트워크와 소켓 프로그래밍.pdf",
     "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Debug/ch2.tlog/Cl.items.tlog",
     "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Debug/ch2.exe.recipe",
