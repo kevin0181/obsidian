@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "249ff814a952fd7d",
+        "id": "52ad7b0cba8dd0e6",
         "type": "tabs",
         "children": [
           {
-            "id": "161ed1ca51014ab4",
+            "id": "f434e9d8f7f0e11a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "대학교/3-2/디지털리터러시와비판적사고/1. 2025.09.04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "1. 2025.09.04 의 백링크"
             }
           },
           {
@@ -108,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "대학교/3-2/디지털리터러시와비판적사고/1. 2025.09.04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "1. 2025.09.04 의 나가는 링크"
             }
           },
           {
@@ -136,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "대학교/3-2/디지털리터러시와비판적사고/1. 2025.09.04.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "1. 2025.09.04 의 개요"
             }
           }
         ]
@@ -168,6 +171,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "161ed1ca51014ab4",
-  "lastOpenFiles": []
+  "active": "10e060bf8aeb4a89",
+  "lastOpenFiles": [
+    "대학교/3-2/디지털리터러시와비판적사고/pdf/[수업] 2주차_디지털리터러시의 이해.pdf",
+    "대학교/3-2/디지털리터러시와비판적사고/pdf",
+    "대학교/3-2/디지털리터러시와비판적사고/새 폴더"
+  ]
 }
