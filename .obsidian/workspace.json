@@ -4,45 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b82e8c85076d8ea4",
+        "id": "ce582087fc66bd5d",
         "type": "tabs",
-        "dimension": 47.896440129449836,
         "children": [
           {
-            "id": "3599bbe54eb1776a",
+            "id": "74432e88505a0671",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학교/3-2/네트워크_게임_프로그래밍/2. 소켓 시작하기.md",
+                "file": "대학교/3-2/데이터베이스/1장. 데이터베이스와 데이터베이스 사용자.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. 소켓 시작하기"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b34bfff7770f5a08",
-        "type": "tabs",
-        "dimension": 52.103559870550164,
-        "children": [
-          {
-            "id": "03a58bc332b774c1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
-                "page": 22,
-                "left": -32,
-                "top": 483,
-                "zoom": 0.4625
-              },
-              "icon": "lucide-file-text",
-              "title": "ch02_소켓 시작하기"
+              "title": "1장. 데이터베이스와 데이터베이스 사용자"
             }
           }
         ]
@@ -102,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a2d5cd6a3ae98acf",
@@ -200,8 +175,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "03a58bc332b774c1",
+  "active": "74432e88505a0671",
   "lastOpenFiles": [
+    "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
     "대학교/3-2/네트워크_게임_프로그래밍/2. 소켓 시작하기.md",
     "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Release/ch2.tlog/link.read.52.tlog",
     "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Release/ch2.tlog/link-cvtres.write.1.tlog",
