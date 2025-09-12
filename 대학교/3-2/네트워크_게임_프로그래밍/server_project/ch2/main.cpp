@@ -20,6 +20,13 @@ int main(int argc, char* argv[])
 	std::cout << "szDescription : " << std::dec << wsa.szDescription << std::endl;
 	std::cout << "szSystemStatus : " << wsa.szSystemStatus << std::endl;
 
+	//교수님이 원하는 ver
+	printf("wVersion: %u.%u\n", LOBYTE(wsa.wVersion), HIBYTE(wsa.wVersion));
+	printf("wHighVersion: %u.%u\n", LOBYTE(wsa.wHighVersion), HIBYTE(wsa.wHighVersion));
+	printf("szDescription: %s\n", wsa.szDescription);
+	printf("szSystemStatus: %s\n", wsa.szSystemStatus);
+
+
 	// 소켓 생성
 	SOCKET sock = socket(AF_INET, SOCK_STREAM, 0);
 	if (sock == INVALID_SOCKET) err_quit("socket()");
