@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "대학교/3-2/인공지능/pdf/(2주-0)AI-02 탐색과 최적화.pdf",
-                "page": 27,
+                "page": 52,
                 "left": -25,
-                "top": 24,
+                "top": 214,
                 "zoom": 0.5895833333333335
               },
               "icon": "lucide-file-text",
@@ -198,10 +198,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ad6f3565cabfd176",
+  "active": "bf2c1b21468dae44",
   "lastOpenFiles": [
-    "대학교/3-2/인공지능/2. 2025.09.16.md",
     "대학교/3-2/인공지능/pdf/(2주-0)AI-02 탐색과 최적화.pdf",
+    "대학교/3-2/인공지능/2. 2025.09.16.md",
     "대학교/3-2/인공지능/pdf/(1주-2)혼자 공부하는 머신러닝+딥러닝(개정판)_CHAPTER01(인공지능개론).pdf",
     "대학교/3-2/알고리즘/2. 2025.09.16.md",
     "대학교/3-2/알고리즘/alg_2025/week03_ch6/data_nearly_sorted_a_lot.py",
