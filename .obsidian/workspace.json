@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "440db0e312e47c31",
     "type": "split",
     "children": [
@@ -15,6 +16,45 @@
               "state": {},
               "icon": "lucide-file",
               "title": "새 탭"
+=======
+    "id": "8f5c5c366dfb7a84",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbe239d4a6a1fb1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad6f3565cabfd176",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "대학교/3-2/인공지능/pdf/(2주-1)AI-03 지식표현과 추론.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "(2주-1)AI-03 지식표현과 추론"
+            }
+          }
+        ]
+      },
+      {
+        "id": "aa8f92b204373a83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf2c1b21468dae44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "대학교/3-2/인공지능/2. 2025.09.16.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. 2025.09.16"
+>>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
             }
           }
         ]
@@ -23,6 +63,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "c5f9145851c35b5d",
     "type": "split",
     "children": [
@@ -32,6 +73,17 @@
         "children": [
           {
             "id": "190bbfeacfdbba02",
+=======
+    "id": "4329c5107ef0ba89",
+    "type": "split",
+    "children": [
+      {
+        "id": "670db4223907e13d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10e060bf8aeb4a89",
+>>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +96,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "5cc7f259425acac3",
+=======
+            "id": "4e43faace3c60e93",
+>>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +117,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "80c8400f3bd2a3ab",
+=======
+            "id": "cc406444fa074c7d",
+>>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,6 +134,7 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 300
   },
   "right": {
@@ -86,10 +147,29 @@
         "children": [
           {
             "id": "97149ab3cc25c3d3",
+=======
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a2d5cd6a3ae98acf",
+    "type": "split",
+    "children": [
+      {
+        "id": "6953ba425af5ce69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4bf8efd661ea285",
+>>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
+>>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +179,44 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< HEAD
               "title": "백링크"
             }
           },
           {
             "id": "503c799c13affdb3",
+=======
+              "title": "ch02_소켓 시작하기 의 백링크"
+            }
+          },
+          {
+            "id": "47b71ac59050dbe7",
+>>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
+>>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+<<<<<<< HEAD
               "title": "나가는 링크"
             }
           },
           {
             "id": "dd82d7f90b40f3ac",
+=======
+              "title": "ch02_소켓 시작하기 의 나가는 링크"
+            }
+          },
+          {
+            "id": "070b80649eb5b780",
+>>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,17 +231,29 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "77509d2cdfa7e752",
+=======
+            "id": "b9149f007601004f",
+>>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
+>>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< HEAD
               "title": "개요"
+=======
+              "title": "ch02_소켓 시작하기 의 개요"
+>>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
             }
           }
         ]
@@ -168,6 +280,30 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
+<<<<<<< HEAD
   "active": "2d7eb2b99766a3c3",
   "lastOpenFiles": []
+=======
+  "active": "bf2c1b21468dae44",
+  "lastOpenFiles": [
+    "대학교/3-2/인공지능/pdf/(2주-1)AI-03 지식표현과 추론.pdf",
+    "대학교/3-2/인공지능/2. 2025.09.16.md",
+    "대학교/3-2/인공지능/pdf/(2주-0)AI-02 탐색과 최적화.pdf",
+    "대학교/3-2/인공지능/pdf/(1주-2)혼자 공부하는 머신러닝+딥러닝(개정판)_CHAPTER01(인공지능개론).pdf",
+    "대학교/3-2/알고리즘/2. 2025.09.16.md",
+    "대학교/3-2/알고리즘/alg_2025/week03_ch6/data_nearly_sorted_a_lot.py",
+    "대학교/3-2/알고리즘/alg_2025/week03_ch6/ch2_z_sort_performance.txt",
+    "대학교/3-2/알고리즘/alg_2025/week03_ch6/ch2_4_shell_sort.py",
+    "대학교/3-2/알고리즘/alg_2025/week03_ch6/ch2_3_insertion_sort.py",
+    "대학교/3-2/알고리즘/alg_2025/week03_ch6/ch2_2_selection_sort.py",
+    "대학교/3-2/알고리즘/alg_2025/week03_ch6/ch2_1_bubble_sort.py",
+    "대학교/3-2/알고리즘/pdf/LEC02_파이썬기초(2).pdf",
+    "대학교/3-2/네트워크_게임_프로그래밍/2. 소켓 시작하기.md",
+    "대학교/3-2/데이터베이스/1장. 데이터베이스와 데이터베이스 사용자.md",
+    "대학교/3-2/네트워크_게임_프로그래밍/2. 2025.09.05 (pdf 1).md",
+    "대학교/3-2/네트워크_게임_프로그래밍/1. 2025.09.04.md",
+    "무제.md",
+    "대학교/3-2/디지털리터러시와비판적사고/1. 2025.09.04.md"
+  ]
+>>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
 }
