@@ -11,10 +11,16 @@
             "id": "bf2c1b21468dae44",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "type": "pdf",
+              "state": {
+                "file": "대학교/3-2/인공지능/pdf/(1주-2)혼자 공부하는 머신러닝+딥러닝(개정판)_CHAPTER01(인공지능개론).pdf",
+                "page": 1,
+                "left": -23,
+                "top": 544,
+                "zoom": 0.6906182025767461
+              },
+              "icon": "lucide-file-text",
+              "title": "(1주-2)혼자 공부하는 머신러닝+딥러닝(개정판)_CHAPTER01(인공지능개론)"
             }
           }
         ]
