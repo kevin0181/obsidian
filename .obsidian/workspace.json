@@ -4,43 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "00be0e76c0a88865",
+        "id": "f2a8af42617459f7",
         "type": "tabs",
-        "dimension": 45.14563106796117,
         "children": [
           {
-            "id": "0857a1ba4f362617",
+            "id": "3bd1933d1f725b6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "대학교/3-2/네트워크_게임_프로그래밍/2. 소켓 시작하기.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2. 소켓 시작하기"
-            }
-          }
-        ]
-      },
-      {
-        "id": "00bafda1102f36ba",
-        "type": "tabs",
-        "dimension": 54.85436893203883,
-        "children": [
-          {
-            "id": "fc6add58738fb3be",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
-                "page": 1,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "ch02_소켓 시작하기"
+              "title": "새 탭"
             }
           }
         ]
@@ -100,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a2d5cd6a3ae98acf",
@@ -198,19 +171,19 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0857a1ba4f362617",
+  "active": "3bd1933d1f725b6c",
   "lastOpenFiles": [
-    "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Release/ch2.tlog/link.read.36.tlog",
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Release/ch2.tlog/link-cvtres.write.1.tlog",
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Release/ch2.tlog/link-cvtres.read.1.tlog",
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Release/ch2.tlog/link-rc.write.1.tlog",
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Release/ch2.tlog/link-rc.read.1.tlog",
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Release/ch2.tlog/link.read.35.tlog",
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Release/ch2.tlog/link.read.34.tlog",
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Release/main.obj",
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Release/ch2.tlog/unsuccessfulbuild",
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch2/x64/Release/ch2.tlog/link.read.52.tlog",
+    "대학교/3-2/알고리즘/ppt/부록V.pptx",
+    "대학교/3-2/알고리즘/ppt/LEC02_파이썬기초(2).pdf",
+    "대학교/3-2/알고리즘/ppt/LEC03_파이썬기초(3).pdf",
+    "대학교/3-2/알고리즘/ppt/7. NP-완전 문제.pptx",
+    "대학교/3-2/알고리즘/ppt/LEC01_파이썬기초(1).pdf",
+    "대학교/3-2/알고리즘/ppt/8. 근사 알고리즘.pptx",
+    "대학교/3-2/알고리즘/ppt/9. 해 탐색 알고리즘.pptx",
+    "대학교/3-2/알고리즘/ppt/5. 동적 계획 알고리즘.pptx",
+    "대학교/3-2/알고리즘/ppt/6. 정렬 알고리즘.pptx",
+    "대학교/3-2/알고리즘/ppt/4. 그리디 알고리즘.pptx",
+    "대학교/3-2/알고리즘/ppt/3. 분할 정복 알고리즘.pptx",
     "대학교/3-2/네트워크_게임_프로그래밍/2. 소켓 시작하기.md",
     "대학교/3-2/데이터베이스/1장. 데이터베이스와 데이터베이스 사용자.md",
     "대학교/3-2/네트워크_게임_프로그래밍/2. 2025.09.05 (pdf 1).md",
