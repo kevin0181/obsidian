@@ -12,12 +12,12 @@ def sort_bubble(arr):
   n = len(arr)
   end = n - 1
   while end > 0:
-      last = 0 # 마지막 swap이 발생한 위치를 기록하기 위해.
+      last = 0              # 마지막 swap이 발생한 위치를 기록하기 위해.
       for i in range(end):
           if arr[i] > arr[i + 1]:
               arr[i], arr[i + 1] = arr[i + 1], arr[i]
               last = i
-      end = last # 발생한 마지막 swap 위치로 end를 업데이트 (최적화
+      end = last            # 발생한 마지막 swap 위치로 end를 업데이트 (최적화
 
 def sort_select(arr):
   print('=' * 60)                  
@@ -26,8 +26,8 @@ def sort_select(arr):
   for i in range(n):               
     min_idx = i                    # 현재 구간에서의 최소값 후보 인덱스 초기화
     for j in range(i + 1, n):
-      if arr[j] < arr[min_idx]:
-        min_idx = j                
+      if arr[j] < arr[min_idx]:    
+        min_idx = j                # 최소값 인덱스 업데이트
     if min_idx != i:               
       arr[i], arr[min_idx] = arr[min_idx], arr[i]  # 스왑 수행
   print(f'SE >: {arr}')            
