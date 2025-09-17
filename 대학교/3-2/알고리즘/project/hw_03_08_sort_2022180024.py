@@ -9,51 +9,29 @@ array = [
 def sort_bubble(arr):
   print('=' * 60)
   print(f'BU <: {arr}')
-  n = len(arr)
-  for i in range(n):
-    for j in range(0, n - i - 1):
-      if arr[j] > arr[j + 1]:
-        arr[j], arr[j + 1] = arr[j + 1], arr[j]
-  print(f'BU >: {arr}')
+
+  end = len(arr) -1
+  while end > 0:
+    last = 0
+    for i in range(end):
+      print(f'{i}-{i+1}',end='')
+      end-=1
+      print(f'{end=}')
+    print(f'BU >: {arr}')
 
 def sort_select(arr):
   print('=' * 60)
   print(f'SE <: {arr}')
-  n = len(arr)
-  for i in range(n):
-    min_idx = i
-    for j in range(i + 1, n):
-      if arr[j] < arr[min_idx]:
-        min_idx = j
-    arr[i], arr[min_idx] = arr[min_idx], arr[i]
   print(f'SE >: {arr}')
 
 def sort_insert(arr):
   print('=' * 60)
   print(f'IN <: {arr}')
-  n = len(arr)
-  for i in range(1, n):
-    key = arr[i]
-    j = i - 1
-    while j >= 0 and arr[j] > key:
-      arr[j + 1] = arr[j]
-      j -= 1
-    arr[j + 1] = key
   print(f'IN >: {arr}')
 
 def sort_shell(arr):
   print('=' * 60)
   print(f'SH <: {arr}')
-  GAPS = [19, 7, 3, 1]
-  n = len(arr)
-  for gap in GAPS:
-    for i in range(gap, n):
-      temp = arr[i]
-      j = i
-      while j >= gap and arr[j - gap] > temp:
-        arr[j] = arr[j - gap]
-        j -= gap
-      arr[j] = temp
   print(f'SH >: {arr}')
 
 def main():
