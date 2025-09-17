@@ -57,7 +57,7 @@ def sort_shell(arr):
   print(f'SH >: {arr}')
 
 def main():
-  sort_bubble(array[:])
+  sort_bubble(array[:]) # 딥카피 방법을 몰라서 gpt에게 물어봐서 알게 되었습니다.
   sort_insert(array[:])
   sort_select(array[:])
   sort_shell(array[:])
