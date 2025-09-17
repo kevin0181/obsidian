@@ -9,13 +9,15 @@ array = [
 def sort_bubble(arr):
   print('=' * 60)
   print(f'BU <: {arr}')
-  end = len(arr) -1
+  n = len(arr)
+  end = n - 1
   while end > 0:
-    last = 0
-    for i in range(end):
-      print(f'{i}-{i+1}',end='')
-      end-=1
-      print(f'{end=}')
+      last = 0
+      for i in range(end):
+          if arr[i] > arr[i + 1]:
+              arr[i], arr[i + 1] = arr[i + 1], arr[i]
+              last = i
+      end = last
   print(f'BU >: {arr}')
 
 def sort_select(arr):
