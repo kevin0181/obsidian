@@ -46,22 +46,21 @@ def sort_insert(arr):
   print(f'IN >: {arr}')           
 
 def sort_shell(arr):
-  print('=' * 60)                  # 구분선 출력
-  print(f'SH <: {arr}')            # 정렬 전 배열 출력
-  GAPS = [19, 7, 3, 1]             # 주어진 gap 시퀀스 (수업 요구사항)
-  n = len(arr)                     # 배열 길이
+  print('=' * 60)                  
+  print(f'SH <: {arr}')            
+  GAPS = [19, 7, 3, 1]             
+  n = len(arr)                     
   for gap in GAPS:                 # gap 을 순서대로 적용
-    if gap >= n:                   # 배열 길이보다 크면 의미 없으므로 건너뜀 (불필요 비교 제거)
+    if gap >= n:                   
       continue
-    # gap 간격의 삽입 정렬 수행
     for i in range(gap, n):        # gap 떨어진 위치부터 끝까지
-      temp = arr[i]                # 현재 삽입할 값 저장
+      temp = arr[i]                
       j = i - gap                  # 이전 gap 위치 인덱스
-      while j >= 0 and arr[j] > temp:  # gap 간격 비교하며 큰 값들은 뒤로 밀기
-        arr[j + gap] = arr[j]      # 값을 gap 만큼 뒤로 이동
-        j -= gap                   # 더 이전 gap 위치로 이동
-      arr[j + gap] = temp          # 올바른 위치에 삽입
-  print(f'SH >: {arr}')            # 정렬 후 배열 출력
+      while j >= 0 and arr[j] > temp:  # 여긴 삽입정렬과 같음
+        arr[j + gap] = arr[j]      
+        j -= gap                   
+      arr[j + gap] = temp          
+  print(f'SH >: {arr}')            
 
 def main():
   sort_bubble(array[:]) # 딥카피 방법을 몰라서 gpt에게 물어봐서 알게 되었습니다.
