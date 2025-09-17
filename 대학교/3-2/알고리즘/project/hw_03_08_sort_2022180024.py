@@ -37,18 +37,31 @@ def sort_insert(arr):
   print(f'IN <: {arr}')           
   n = len(arr)                    
   for i in range(1, n):           
-    key = arr[i]                  # 현재 삽입할 값 저장
-    j = i - 1                     # 정렬된 구간의 마지막 인덱스
-    while j >= 0 and arr[j] > key:  # key 보다 큰 원소들을 한 칸씩 뒤로 민다
-      arr[j + 1] = arr[j]         # 오른쪽으로 이동
+    key = arr[i]                  # ex> 0번째 값 넣음 (두번째 값이면?)
+    j = i - 1                     # ex> 0번째 값 기준 0번째 값보다 앞에 값 0 이면 -1임 (1번째 값이면 0번째넣고 비교)
+    while j >= 0 and arr[j] > key:  # 만약에 현재 비교하는 key보다 값이 작다면? j>=0은 반드시 넣어줘야함 0번째보다 앞은 없으니깐..
+      arr[j + 1] = arr[j]         # j값 (이전 키값)을 오른칸으로 이동시킴
       j -= 1                      # 왼쪽으로 인덱스 이동
-    arr[j + 1] = key              # 올바른 위치에 key 삽입
+    arr[j + 1] = key              # key 값 줌
   print(f'IN >: {arr}')           
 
 def sort_shell(arr):
-  print('=' * 60)
-  print(f'SH <: {arr}')
-  print(f'SH >: {arr}')
+  print('=' * 60)                  # 구분선 출력
+  print(f'SH <: {arr}')            # 정렬 전 배열 출력
+  GAPS = [19, 7, 3, 1]             # 주어진 gap 시퀀스 (수업 요구사항)
+  n = len(arr)                     # 배열 길이
+  for gap in GAPS:                 # gap 을 순서대로 적용
+    if gap >= n:                   # 배열 길이보다 크면 의미 없으므로 건너뜀 (불필요 비교 제거)
+      continue
+    # gap 간격의 삽입 정렬 수행
+    for i in range(gap, n):        # gap 떨어진 위치부터 끝까지
+      temp = arr[i]                # 현재 삽입할 값 저장
+      j = i - gap                  # 이전 gap 위치 인덱스
+      while j >= 0 and arr[j] > temp:  # gap 간격 비교하며 큰 값들은 뒤로 밀기
+        arr[j + gap] = arr[j]      # 값을 gap 만큼 뒤로 이동
+        j -= gap                   # 더 이전 gap 위치로 이동
+      arr[j + gap] = temp          # 올바른 위치에 삽입
+  print(f'SH >: {arr}')            # 정렬 후 배열 출력
 
 def main():
   sort_bubble(array[:]) # 딥카피 방법을 몰라서 gpt에게 물어봐서 알게 되었습니다.
