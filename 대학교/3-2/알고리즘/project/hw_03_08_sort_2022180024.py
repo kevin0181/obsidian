@@ -33,9 +33,17 @@ def sort_select(arr):
   print(f'SE >: {arr}')            
 
 def sort_insert(arr):
-  print('=' * 60)
-  print(f'IN <: {arr}')
-  print(f'IN >: {arr}')
+  print('=' * 60)                 # 구분선 출력
+  print(f'IN <: {arr}')           # 정렬 전 배열 출력
+  n = len(arr)                    # 배열 길이
+  for i in range(1, n):           # 두 번째 원소(i=1)부터 끝까지 순회
+    key = arr[i]                  # 현재 삽입할 값 저장
+    j = i - 1                     # 정렬된 구간의 마지막 인덱스
+    while j >= 0 and arr[j] > key:  # key 보다 큰 원소들을 한 칸씩 뒤로 민다
+      arr[j + 1] = arr[j]         # 오른쪽으로 이동
+      j -= 1                      # 왼쪽으로 인덱스 이동
+    arr[j + 1] = key              # 올바른 위치에 key 삽입
+  print(f'IN >: {arr}')           # 정렬 후 배열 출력
 
 def sort_shell(arr):
   print('=' * 60)
