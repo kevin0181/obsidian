@@ -20,17 +20,17 @@ def sort_bubble(arr):
       end = last # 발생한 마지막 swap 위치로 end를 업데이트 (최적화
 
 def sort_select(arr):
-  print('=' * 60)
-  print(f'SE <: {arr}')
-  n = len(arr)
-  for i in range(n):
-    min_idx = i
+  print('=' * 60)                  
+  print(f'SE <: {arr}')            
+  n = len(arr)                     
+  for i in range(n):               
+    min_idx = i                    # 현재 구간에서의 최소값 후보 인덱스 초기화
     for j in range(i + 1, n):
       if arr[j] < arr[min_idx]:
-        min_idx = j
-    if min_idx != i:
-      arr[i], arr[min_idx] = arr[min_idx], arr[i]
-  print(f'SE >: {arr}')
+        min_idx = j                
+    if min_idx != i:               
+      arr[i], arr[min_idx] = arr[min_idx], arr[i]  # 스왑 수행
+  print(f'SE >: {arr}')            
 
 def sort_insert(arr):
   print('=' * 60)
@@ -43,7 +43,7 @@ def sort_shell(arr):
   print(f'SH >: {arr}')
 
 def main():
-  sort_bubble(array[:])
+  sort_bubble(array[:]) # 딥카피 방법을 몰라서 gpt에게 물어봐서 알게 되었습니다.
   sort_insert(array[:])
   sort_select(array[:])
   sort_shell(array[:])
