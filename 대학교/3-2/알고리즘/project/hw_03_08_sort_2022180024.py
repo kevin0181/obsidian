@@ -24,10 +24,10 @@ def sort_select(arr):
   print(f'SE <: {arr}')            
   n = len(arr)                     
   for i in range(n):               
-    min_idx = i                    # 현재 구간에서의 최소값 후보 인덱스 초기화
+    min_idx = i                    # 항상 첫번째 인덱스 값을 최소값으로 줌.
     for j in range(i + 1, n):
       if arr[j] < arr[min_idx]:    
-        min_idx = j                # 최소값 인덱스 업데이트
+        min_idx = j                # 만약에 최소값을 찾았다? min_idx에 최소값 인덱스를 업데이트
     if min_idx != i:               
       arr[i], arr[min_idx] = arr[min_idx], arr[i]  # 스왑 수행
   print(f'SE >: {arr}')            
