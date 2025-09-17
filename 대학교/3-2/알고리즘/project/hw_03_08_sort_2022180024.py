@@ -17,8 +17,8 @@ def sort_bubble(arr):
       if arr[i] > arr[i + 1]:
         arr[i], arr[i + 1] = arr[i + 1], arr[i]
         last = i
-    end = last            # 발생한 마지막 swap 위치로 end를 업데이트 (최적화)
-  print(f'BU >: {arr}')     # 정렬 완료 후 결과 출력
+    end = last            # 발생한 마지막 swap 위치로 end를 업데이트
+  print(f'BU >: {arr}')
 
 def sort_select(arr):
   print('=' * 60)                  
