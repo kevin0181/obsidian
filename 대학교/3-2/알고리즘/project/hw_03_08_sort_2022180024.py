@@ -12,12 +12,13 @@ def sort_bubble(arr):
   n = len(arr)
   end = n - 1
   while end > 0:
-      last = 0              # 마지막 swap이 발생한 위치를 기록하기 위해.
-      for i in range(end):
-          if arr[i] > arr[i + 1]:
-              arr[i], arr[i + 1] = arr[i + 1], arr[i]
-              last = i
-      end = last            # 발생한 마지막 swap 위치로 end를 업데이트 (최적화
+    last = 0              # 마지막 swap이 발생한 위치를 기록하기 위해.
+    for i in range(end):
+      if arr[i] > arr[i + 1]:
+        arr[i], arr[i + 1] = arr[i + 1], arr[i]
+        last = i
+    end = last            # 발생한 마지막 swap 위치로 end를 업데이트 (최적화)
+  print(f'BU >: {arr}')     # 정렬 완료 후 결과 출력
 
 def sort_select(arr):
   print('=' * 60)                  
@@ -56,10 +57,10 @@ def sort_shell(arr):
     for i in range(gap, n):        # gap 떨어진 위치부터 끝까지
       temp = arr[i]                
       j = i - gap                  # 이전 gap 위치 인덱스
-      while j >= 0 and arr[j] > temp:  # 여긴 삽입정렬과 같음
+      while j >= 0 and arr[j] > temp:  # 여긴 삽입정렬과 같음 갭의 위치에 값의 크기가 더 크면? 스왑. 작으면 그대로감.
         arr[j + gap] = arr[j]      
         j -= gap                   
-      arr[j + gap] = temp          
+      arr[j + gap] = temp          # 작으면 이부분 실행
   print(f'SH >: {arr}')            
 
 def main():
@@ -70,12 +71,4 @@ def main():
 
 if __name__ == '__main__':
   main()
-
-# 전역변수 array는 건들이지 않고,
-# 딥카피를한다. (복사본을 하나 만든다.)
-# arr이라는 인자로 받는다.
-# 정렬은 오름차순으로 되게 하라.
-# shell sort 에서 gap 은 다음을 사용한다
-# GAPS = [19, 7, 3, 1]
-# for g in GAPS: 로 루프를 돌며, 수업에서 소개한 next_gap() 은 사용하지 않는다.
 
