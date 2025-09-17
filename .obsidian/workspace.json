@@ -1,68 +1,46 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "440db0e312e47c31",
-    "type": "split",
-    "children": [
-      {
-        "id": "9085c3088b5012a5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2d7eb2b99766a3c3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-=======
     "id": "8f5c5c366dfb7a84",
     "type": "split",
     "children": [
       {
-        "id": "55d490fddcdbe4a4",
+        "id": "909b0a871f9f8005",
         "type": "tabs",
         "children": [
           {
-            "id": "b0946744ce6f78f9",
+            "id": "b044ce0375f6e505",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "대학교/3-2/알고리즘/pdf/3. 분할 정복 알고리즘.pdf",
-                "page": 1,
-                "left": -23,
-                "top": 544,
-                "zoom": 0.6906182025767461
+                "file": "대학교/3-2/알고리즘/3 . 2025.09.17.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-<<<<<<< HEAD
-              "title": "3. 분할 정복 알고리즘"
-=======
-              "title": "(2주-1)AI-03 지식표현과 추론"
+              "icon": "lucide-file",
+              "title": "3 . 2025.09.17"
             }
           }
         ]
       },
       {
-        "id": "aa8f92b204373a83",
+        "id": "6b67f06a580cdf90",
         "type": "tabs",
         "children": [
           {
-            "id": "bf2c1b21468dae44",
+            "id": "738fc8185dbe8b56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "대학교/3-2/인공지능/2. 2025.09.16.md",
-                "mode": "source",
-                "source": false
+                "file": "대학교/3-2/알고리즘/pdf/6. 정렬 알고리즘.pdf",
+                "page": 52,
+                "left": -25,
+                "top": 30,
+                "zoom": 0.5895833333333335
               },
-              "icon": "lucide-file",
-              "title": "2. 2025.09.16"
->>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
->>>>>>> 56b3eb7474be0898ff61d3df6b46018a2976969f
+              "icon": "lucide-file-text",
+              "title": "6. 정렬 알고리즘"
             }
           }
         ]
@@ -71,17 +49,6 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "c5f9145851c35b5d",
-    "type": "split",
-    "children": [
-      {
-        "id": "292215ca441d5fa6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "190bbfeacfdbba02",
-=======
     "id": "4329c5107ef0ba89",
     "type": "split",
     "children": [
@@ -91,7 +58,6 @@
         "children": [
           {
             "id": "10e060bf8aeb4a89",
->>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -104,11 +70,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "5cc7f259425acac3",
-=======
             "id": "4e43faace3c60e93",
->>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
             "type": "leaf",
             "state": {
               "type": "search",
@@ -125,11 +87,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "80c8400f3bd2a3ab",
-=======
             "id": "cc406444fa074c7d",
->>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -142,26 +100,8 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 300
-=======
-<<<<<<< HEAD
-    "width": 300
-  },
-  "right": {
-    "id": "a42a782616fd6a77",
-    "type": "split",
-    "children": [
-      {
-        "id": "38b423551507e198",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "97149ab3cc25c3d3",
-=======
     "width": 300,
     "collapsed": true
->>>>>>> 56b3eb7474be0898ff61d3df6b46018a2976969f
   },
   "right": {
     "id": "a2d5cd6a3ae98acf",
@@ -173,15 +113,11 @@
         "children": [
           {
             "id": "d4bf8efd661ea285",
->>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
                 "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
->>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,44 +127,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
-              "title": "백링크"
-            }
-          },
-          {
-            "id": "503c799c13affdb3",
-=======
               "title": "ch02_소켓 시작하기 의 백링크"
             }
           },
           {
             "id": "47b71ac59050dbe7",
->>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-=======
                 "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
->>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-<<<<<<< HEAD
-              "title": "나가는 링크"
-            }
-          },
-          {
-            "id": "dd82d7f90b40f3ac",
-=======
               "title": "ch02_소켓 시작하기 의 나가는 링크"
             }
           },
           {
             "id": "070b80649eb5b780",
->>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -243,29 +160,18 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "77509d2cdfa7e752",
-=======
             "id": "b9149f007601004f",
->>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-=======
                 "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
->>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< HEAD
-              "title": "개요"
-=======
               "title": "ch02_소켓 시작하기 의 개요"
->>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
             }
           }
         ]
@@ -292,27 +198,19 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-<<<<<<< HEAD
-  "active": "b0946744ce6f78f9",
-=======
-<<<<<<< HEAD
-  "active": "2d7eb2b99766a3c3",
-  "lastOpenFiles": []
-=======
-  "active": "bf2c1b21468dae44",
->>>>>>> 56b3eb7474be0898ff61d3df6b46018a2976969f
+  "active": "b044ce0375f6e505",
   "lastOpenFiles": [
+    "대학교/3-2/알고리즘/pdf/6. 정렬 알고리즘.pdf",
+    "대학교/3-2/알고리즘/3 . 2025.09.17.md",
+    "대학교/3-2/알고리즘/pdf/LEC03_파이썬기초(3).pdf",
     "대학교/3-2/알고리즘/pdf/2. 알고리즘을 배우기 위한 준비.pdf",
+    "대학교/3-2/알고리즘/pdf/1. 알고리즘의 첫걸음.pdf",
+    "대학교/3-2/알고리즘/pdf/4. 그리디 알고리즘.pdf",
+    "대학교/3-2/알고리즘/pdf/3. 분할 정복 알고리즘.pdf",
     "대학교/3-2/인공지능/pdf/(3주-2)혼자 공부하는 머신러닝+딥러닝(개정판)_CHAPTER02(데이터다루기).pdf",
     "대학교/3-2/인공지능/pdf/(3주-1)AI-04-1 기계 학습-I(개론).pdf",
     "대학교/3-2/인공지능/pdf/(3주-0)제03장 게임트리(강의).pdf",
     "대학교/3-2/인공지능/pdf/(2주-3)제04장 전문가시스템(강의).pdf",
-    "대학교/3-2/인공지능/pdf/(2주-2)제05장 지식표현(강의).pdf",
-    "대학교/3-2/인공지능/pdf/(2주-1)AI-03 지식표현과 추론.pdf",
-    "대학교/3-2/인공지능/pdf/(2주-0)AI-02 탐색과 최적화.pdf",
-    "대학교/3-2/인공지능/pdf/(1주-2)혼자 공부하는 머신러닝+딥러닝(개정판)_CHAPTER01(인공지능개론).pdf",
-    "대학교/3-2/인공지능/pdf/(1주-0)제02장 파이썬과 넘파이 복습(강의)-24.pdf",
-    "대학교/3-2/인공지능/pdf/(1주-1)AI-01 인공지능 소개.pdf",
     "대학교/3-2/인공지능/2. 2025.09.16.md",
     "대학교/3-2/알고리즘/2. 2025.09.16.md",
     "대학교/3-2/네트워크_게임_프로그래밍/2. 소켓 시작하기.md",
@@ -322,5 +220,4 @@
     "무제.md",
     "대학교/3-2/디지털리터러시와비판적사고/1. 2025.09.04.md"
   ]
->>>>>>> 06f45e2d48faff1dec7b38fc0b171f146fce7851
 }
