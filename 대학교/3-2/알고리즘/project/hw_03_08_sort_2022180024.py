@@ -9,7 +9,6 @@ array = [
 def sort_bubble(arr):
   print('=' * 60)
   print(f'BU <: {arr}')
-
   end = len(arr) -1
   while end > 0:
     last = 0
@@ -17,7 +16,7 @@ def sort_bubble(arr):
       print(f'{i}-{i+1}',end='')
       end-=1
       print(f'{end=}')
-    print(f'BU >: {arr}')
+  print(f'BU >: {arr}')
 
 def sort_select(arr):
   print('=' * 60)
@@ -35,7 +34,7 @@ def sort_shell(arr):
   print(f'SH >: {arr}')
 
 def main():
-  sort_bubble(array[:]) # 딥카피 방법을 몰라서 gpt에게 물어봐서 알게 되었습니다.
+  sort_bubble(array[:])
   sort_insert(array[:])
   sort_select(array[:])
   sort_shell(array[:])
