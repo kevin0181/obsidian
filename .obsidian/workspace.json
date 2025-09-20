@@ -1,9 +1,10 @@
 {
   "main": {
-    "id": "380a845db4c11197",
+    "id": "8f5c5c366dfb7a84",
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "3a1d41fdff65af73",
         "type": "tabs",
         "children": [
@@ -25,16 +26,34 @@
           },
           {
             "id": "f224d7977e1cb452",
+=======
+        "id": "6f8ee0a46fded574",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0973d05551250d74",
+>>>>>>> 1f768eaea4f8900b5f8430232a5c679f0af8c9f4
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
+<<<<<<< HEAD
                 "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "conflict-files-obsidian-git"
+=======
+                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch03_소켓 주소 구조체 다루기.pdf",
+                "page": 33,
+                "left": -14,
+                "top": 298,
+                "zoom": 1.08125
+              },
+              "icon": "lucide-file-text",
+              "title": "ch03_소켓 주소 구조체 다루기"
+>>>>>>> 1f768eaea4f8900b5f8430232a5c679f0af8c9f4
             }
           }
         ],
@@ -44,15 +63,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "388a94b212dd7594",
+    "id": "4329c5107ef0ba89",
     "type": "split",
     "children": [
       {
-        "id": "a45b7ae94456c701",
+        "id": "670db4223907e13d",
         "type": "tabs",
         "children": [
           {
-            "id": "dadd3c25a1b9ada9",
+            "id": "10e060bf8aeb4a89",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,12 +84,12 @@
             }
           },
           {
-            "id": "dd80def89ac06ab8",
+            "id": "4e43faace3c60e93",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:2DG",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +101,7 @@
             }
           },
           {
-            "id": "bcbf1d33eb97e977",
+            "id": "cc406444fa074c7d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,23 +114,27 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 349.5
+=======
+    "width": 300
+>>>>>>> 1f768eaea4f8900b5f8430232a5c679f0af8c9f4
   },
   "right": {
-    "id": "de26b89e07fcd6dd",
+    "id": "a2d5cd6a3ae98acf",
     "type": "split",
     "children": [
       {
-        "id": "6554a91360f0e7a2",
+        "id": "6953ba425af5ce69",
         "type": "tabs",
         "children": [
           {
-            "id": "6cede09125fdc122",
+            "id": "d4bf8efd661ea285",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
+                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,25 +144,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1. chapter 1 (알고리즘의 첫걸음) 의 백링크"
+              "title": "ch02_소켓 시작하기 의 백링크"
             }
           },
           {
-            "id": "0c95a7b220c87ac4",
+            "id": "47b71ac59050dbe7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
+                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "1. chapter 1 (알고리즘의 첫걸음) 의 나가는 링크"
+              "title": "ch02_소켓 시작하기 의 나가는 링크"
             }
           },
           {
-            "id": "689a8dfc15de431c",
+            "id": "070b80649eb5b780",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -154,17 +177,18 @@
             }
           },
           {
-            "id": "e0c386f07a924e4b",
+            "id": "b9149f007601004f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
+                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< HEAD
               "title": "1. chapter 1 (알고리즘의 첫걸음) 의 개요"
             }
           },
@@ -176,14 +200,16 @@
               "state": {},
               "icon": "lucide-ghost",
               "title": "git-view"
+=======
+              "title": "ch02_소켓 시작하기 의 개요"
+>>>>>>> 1f768eaea4f8900b5f8430232a5c679f0af8c9f4
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -203,6 +229,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
+<<<<<<< HEAD
   "active": "f224d7977e1cb452",
   "lastOpenFiles": [
     "대학교/3-2/인공지능/pdf/(1주-2)혼자 공부하는 머신러닝+딥러닝(개정판)_CHAPTER01(인공지능개론).pdf",
@@ -240,5 +267,29 @@
     "2-2/2DG_PDF/file/LEC00_과목소개.md",
     "2-2/2DG_PDF/file/LEC01_파이썬기초(1).md",
     "3-1/STL/과제.md"
+=======
+  "active": "0973d05551250d74",
+  "lastOpenFiles": [
+    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch3/x64/Debug/ch3.tlog/link.read.2.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch3/x64/Debug/main_2.obj",
+    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch3/x64/Debug/ch3.tlog/unsuccessfulbuild",
+    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch3/x64/Debug/ch3.tlog/link.17136-rc.write.1.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch3/x64/Debug/ch3.tlog/link.17136-rc.read.1.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch3/x64/Debug/ch3.tlog/link.17136.read.3.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch3/x64/Debug/ch3.tlog/link.17136.read.2.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch3/main_2.cpp",
+    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch3/x64/Debug/main.obj",
+    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch3/x64/Debug/ch3.tlog/Cl.items.tlog",
+    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch3/x64/Debug/ch3.exe.recipe",
+    "대학교/3-2/알고리즘/3 . 2025.09.17.md",
+    "대학교/3-2/인공지능/2. 2025.09.16.md",
+    "대학교/3-2/알고리즘/2. 2025.09.16.md",
+    "대학교/3-2/네트워크_게임_프로그래밍/2. 소켓 시작하기.md",
+    "대학교/3-2/데이터베이스/1장. 데이터베이스와 데이터베이스 사용자.md",
+    "대학교/3-2/네트워크_게임_프로그래밍/2. 2025.09.05 (pdf 1).md",
+    "대학교/3-2/네트워크_게임_프로그래밍/1. 2025.09.04.md",
+    "무제.md",
+    "대학교/3-2/디지털리터러시와비판적사고/1. 2025.09.04.md"
+>>>>>>> 1f768eaea4f8900b5f8430232a5c679f0af8c9f4
   ]
 }
