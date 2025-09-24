@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "3ff15591412d279c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c3b8c6456a71c12b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "대학교/3-2/데이터베이스/1장. 데이터베이스와 데이터베이스 사용자.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1장. 데이터베이스와 데이터베이스 사용자"
-            }
-          }
-        ]
-      },
-      {
         "id": "56d8a89fc050b9fc",
         "type": "tabs",
         "children": [
@@ -31,16 +11,36 @@
             "id": "a1ad43447e757062",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "대학교/3-2/데이터베이스/3. 화일의 인덱스.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. 화일의 인덱스"
+            }
+          }
+        ]
+      },
+      {
+        "id": "428e10c36c53ea06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5859dc516a6c577",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "대학교/3-2/데이터베이스/pdf/2. DB_데이터베이스와 사용자.pdf",
-                "page": 27,
-                "left": -36,
-                "top": 30,
-                "zoom": 0.43333333333333335
+                "file": "대학교/3-2/데이터베이스/pdf/3. 2024  DB_인덱스.pdf",
+                "page": 1,
+                "left": -19,
+                "top": 419,
+                "zoom": 0.6
               },
               "icon": "lucide-file-text",
-              "title": "2. DB_데이터베이스와 사용자"
+              "title": "3. 2024  DB_인덱스"
             }
           }
         ]
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a2d5cd6a3ae98acf",
@@ -197,8 +198,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c3b8c6456a71c12b",
+  "active": "a1ad43447e757062",
   "lastOpenFiles": [
+    "대학교/3-2/데이터베이스/pdf/3. 2024  DB_인덱스.pdf",
+    "대학교/3-2/데이터베이스/3. 화일의 인덱스.md",
     "대학교/3-2/데이터베이스/pdf/2. DB_데이터베이스와 사용자.pdf",
     "대학교/3-2/데이터베이스/1장. 데이터베이스와 데이터베이스 사용자.md",
     "대학교/3-2/데이터베이스/pdf/1. DB_강의계획.pdf",
@@ -213,7 +216,6 @@
     "대학교/3-2/알고리즘/1. chapter 1 (알고리즘의 첫걸음).md",
     "대학교/3-2/알고리즘/과제.md",
     "conflict-files-obsidian-git.md",
-    "대학교/3-2/알고리즘/alg_2025/week03_ch6/ch2_5_heap_sort.py",
     "대학교/3-2/알고리즘/README.md",
     "대학교/3-2/알고리즘/3 . 2025.09.17.md",
     "대학교/3-2/인공지능/2. 2025.09.16.md",
