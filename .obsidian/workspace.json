@@ -34,9 +34,9 @@
               "type": "pdf",
               "state": {
                 "file": "대학교/3-2/데이터베이스/pdf/3. 2024  DB_인덱스.pdf",
-                "page": 5,
+                "page": 6,
                 "left": -19,
-                "top": 104,
+                "top": 25,
                 "zoom": 0.6
               },
               "icon": "lucide-file-text",
@@ -198,10 +198,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a1ad43447e757062",
+  "active": "e5859dc516a6c577",
   "lastOpenFiles": [
-    "대학교/3-2/데이터베이스/pdf/3. 2024  DB_인덱스.pdf",
     "대학교/3-2/데이터베이스/3. 화일의 인덱스.md",
+    "대학교/3-2/데이터베이스/pdf/3. 2024  DB_인덱스.pdf",
     "대학교/3-2/데이터베이스/pdf/2. DB_데이터베이스와 사용자.pdf",
     "대학교/3-2/데이터베이스/1장. 데이터베이스와 데이터베이스 사용자.md",
     "대학교/3-2/데이터베이스/pdf/1. DB_강의계획.pdf",
