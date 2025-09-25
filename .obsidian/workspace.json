@@ -36,9 +36,9 @@
               "type": "pdf",
               "state": {
                 "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch04_TCP 서버-클라이언트.pdf",
-                "page": 5,
+                "page": 10,
                 "left": -4,
-                "top": 267,
+                "top": 155,
                 "zoom": 0.5
               },
               "icon": "lucide-file-text",
@@ -200,10 +200,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0dae97e43a755ac1",
+  "active": "5960c943bae08d7d",
   "lastOpenFiles": [
-    "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch04_TCP 서버-클라이언트.pdf",
     "대학교/3-2/네트워크_게임_프로그래밍/4. TCP 서버 - 클라이언트.md",
+    "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch04_TCP 서버-클라이언트.pdf",
     "대학교/3-2/데이터베이스/pdf/3. 2024  DB_인덱스.pdf",
     "대학교/3-2/데이터베이스/3. 화일의 인덱스.md",
     "대학교/3-2/데이터베이스/pdf/2. DB_데이터베이스와 사용자.pdf",
