@@ -37,9 +37,9 @@
               "state": {
                 "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch04_TCP 서버-클라이언트.pdf",
                 "page": 19,
-                "left": -45,
-                "top": 70,
-                "zoom": 0.34687500000000004
+                "left": -33,
+                "top": 75,
+                "zoom": 0.4710937500000001
               },
               "icon": "lucide-file-text",
               "title": "ch04_TCP 서버-클라이언트"
@@ -51,18 +51,17 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch03_소켓 주소 구조체 다루기.pdf",
-                "page": 6,
+                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
+                "page": 17,
                 "left": -33,
-                "top": 507,
+                "top": 233,
                 "zoom": 0.4710937500000001
               },
               "icon": "lucide-file-text",
-              "title": "ch03_소켓 주소 구조체 다루기"
+              "title": "ch02_소켓 시작하기"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,10 +216,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "139e193937385038",
+  "active": "0dae97e43a755ac1",
   "lastOpenFiles": [
     "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch04_TCP 서버-클라이언트.pdf",
     "대학교/3-2/네트워크_게임_프로그래밍/4. TCP 서버 - 클라이언트.md",
+    "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch02_소켓 시작하기.pdf",
     "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch03_소켓 주소 구조체 다루기.pdf",
     "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch4_server/1.cpp",
     "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch4/x64/Release/ch4_client.tlog/Cl.items.tlog",
@@ -229,7 +229,6 @@
     "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch4/x64/Release/ch4_client.exe.recipe",
     "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch4_server/x64/Release/ch4_server.tlog/link.secondary.1.tlog",
     "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch4/x64/Release/ch4_client.tlog/link.secondary.1.tlog",
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch4_server/x64/Release/ch4_server.tlog/link.write.1.tlog",
     "대학교/3-2/데이터베이스/3. 화일의 인덱스.md",
     "대학교/3-2/데이터베이스/1장. 데이터베이스와 데이터베이스 사용자.md",
     "대학교/3-2/알고리즘/2. 2025.09.16.md",
