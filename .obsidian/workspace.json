@@ -6,7 +6,7 @@
       {
         "id": "ed81252a1257be40",
         "type": "tabs",
-        "dimension": 47.006472491909385,
+        "dimension": 43.203883495145625,
         "children": [
           {
             "id": "0dae97e43a755ac1",
@@ -27,7 +27,7 @@
       {
         "id": "4149707ca48e7236",
         "type": "tabs",
-        "dimension": 52.993527508090615,
+        "dimension": 56.79611650485437,
         "children": [
           {
             "id": "5960c943bae08d7d",
@@ -36,10 +36,10 @@
               "type": "pdf",
               "state": {
                 "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch04_TCP 서버-클라이언트.pdf",
-                "page": 19,
-                "left": -33,
-                "top": 75,
-                "zoom": 0.4710937500000001
+                "page": 22,
+                "left": -31,
+                "top": 131,
+                "zoom": 0.5078125000000001
               },
               "icon": "lucide-file-text",
               "title": "ch04_TCP 서버-클라이언트"
