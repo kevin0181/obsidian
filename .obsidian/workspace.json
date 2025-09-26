@@ -27,7 +27,7 @@
       {
         "id": "4149707ca48e7236",
         "type": "tabs",
-        "dimension": 52.99352750809061,
+        "dimension": 52.993527508090615,
         "children": [
           {
             "id": "5960c943bae08d7d",
@@ -35,14 +35,12 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch04_TCP 서버-클라이언트.pdf",
-                "page": 11,
-                "left": -4,
-                "top": 402,
-                "zoom": 0.5
+                "file": "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch03_소켓 주소 구조체 다루기.pdf",
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
-              "title": "ch04_TCP 서버-클라이언트"
+              "title": "ch03_소켓 주소 구조체 다루기"
             }
           }
         ]
@@ -200,8 +198,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5960c943bae08d7d",
+  "active": "0dae97e43a755ac1",
   "lastOpenFiles": [
+    "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch03_소켓 주소 구조체 다루기.pdf",
+    "대학교/3-2/네트워크_게임_프로그래밍/pdf/ch04_TCP 서버-클라이언트.pdf",
     "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch4_server/1.cpp",
     "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch4/x64/Release/ch4_client.tlog/Cl.items.tlog",
     "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch4_server/x64/Release/ch4_server.tlog/Cl.items.tlog",
@@ -211,8 +211,6 @@
     "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch4/x64/Release/ch4_client.tlog/link.secondary.1.tlog",
     "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch4_server/x64/Release/ch4_server.tlog/link.write.1.tlog",
     "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch4/x64/Release/ch4_client.tlog/link.write.1.tlog",
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch4_server/x64/Release/ch4_server.tlog/link.read.1.tlog",
-    "대학교/3-2/네트워크_게임_프로그래밍/server_project/ch4/x64/Release/ch4_client.tlog/link.read.1.tlog",
     "대학교/3-2/네트워크_게임_프로그래밍/4. TCP 서버 - 클라이언트.md",
     "대학교/3-2/데이터베이스/3. 화일의 인덱스.md",
     "대학교/3-2/데이터베이스/1장. 데이터베이스와 데이터베이스 사용자.md",
