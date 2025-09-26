@@ -20,8 +20,8 @@ int main(int argc, char* argv[])
 	struct sockaddr_in serveraddr;
 	memset(&serveraddr, 0, sizeof(serveraddr));
 	serveraddr.sin_family = AF_INET;
-	//serveraddr.sin_addr.s_addr = htonl(INADDR_ANY);
-	inet_pton(AF_INET, "192.168.68.148", &serveraddr.sin_addr);  // 특정 IP로 바인딩
+	serveraddr.sin_addr.s_addr = htonl(INADDR_ANY);
+	//inet_pton(AF_INET, "192.168.68.148", &serveraddr.sin_addr);  // 특정 IP로 바인딩
 	serveraddr.sin_port = htons(SERVERPORT);
 	retval = bind(listen_sock, (struct sockaddr*)&serveraddr, sizeof(serveraddr));
 	if (retval == SOCKET_ERROR) err_quit("bind()");
